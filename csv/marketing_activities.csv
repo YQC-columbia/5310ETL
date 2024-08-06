@@ -1,0 +1,51 @@
+activity_id,activity_name,start_date,end_date,cost,ROI,description
+1,Television Commercials,2023-01-01,2023-09-08,66790.47,2.06,Broadcasting TV ads during prime time on major networks to reach a broad audience and promote our services.
+2,Billboard Advertising,2023-01-12,2023-06-16,81279.91,0.16,Placing eye-catching billboards in high-traffic areas to capture the attention of commuters and passersby.
+3,Search Engine Marketing,2023-01-24,2024-04-21,12297.47,4.17,Implementing paid search campaigns on Google and Bing to capture leads actively searching for real estate services.
+4,Email Marketing Campaign,2023-02-05,2024-03-12,86111.36,4.26,"Sending out newsletters and promotional emails to a curated list of subscribers with updates on new listings, market trends, and company news."
+5,Billboard Advertising,2023-02-17,2024-02-29,60155.06,4.6,Placing eye-catching billboards in high-traffic areas to capture the attention of commuters and passersby.
+6,Billboard Advertising,2023-02-28,2023-11-09,76118.52,2.25,Placing eye-catching billboards in high-traffic areas to capture the attention of commuters and passersby.
+7,Virtual Tours,2023-03-12,2024-07-14,89527.81,3.54,Creating immersive virtual tours of properties to provide remote buyers with an in-depth viewing experience.
+8,Real Estate Seminars,2023-03-24,2024-02-11,63469.71,0.12,Organizing seminars to educate potential buyers and sellers about the real estate process and market trends.
+9,Community Sponsorships,2023-04-05,2024-01-06,3032.2,0.64,Sponsoring local events and charities to enhance community relations and brand visibility.
+10,Open House Events,2023-04-16,2024-04-22,44031.14,1.69,Hosting open houses to showcase properties to potential buyers and generate interest.
+11,Search Engine Marketing,2023-04-28,2023-05-13,89503.74,0.71,Implementing paid search campaigns on Google and Bing to capture leads actively searching for real estate services.
+12,Search Engine Marketing,2023-05-10,2024-02-15,27232.3,2.92,Implementing paid search campaigns on Google and Bing to capture leads actively searching for real estate services.
+13,Real Estate Expo Participation,2023-05-22,2024-01-26,85835.85,1.06,Attending and exhibiting at real estate expos to network with industry professionals and potential clients.
+14,Open House Events,2023-06-03,2024-06-04,37213.86,1.02,Hosting open houses to showcase properties to potential buyers and generate interest.
+15,Print Advertising,2023-06-14,2024-01-10,53849.74,1.6,"Running ads in local newspapers, magazines, and real estate publications to reach a traditional audience."
+16,Direct Mail Campaign,2023-06-26,2024-05-20,11227.2,2.02,Sending out postcards and brochures to targeted neighborhoods to generate leads and promote listings.
+17,Radio Advertisements,2023-07-08,2024-01-15,3422.7,4.24,Airing radio ads on popular stations to drive local awareness and interest in our real estate services.
+18,Content Marketing,2023-07-20,2023-08-06,90629.87,0.26,"Producing blog posts, videos, and other content to educate and engage potential clients about the real estate market."
+19,Local Event Sponsorship,2023-07-31,2024-07-10,71736.42,0.47,Sponsoring local community events to increase brand awareness and build relationships with potential clients.
+20,Television Commercials,2023-08-12,2024-05-30,84286.99,1.99,Broadcasting TV ads during prime time on major networks to reach a broad audience and promote our services.
+21,Online Video Ads,2023-08-24,2024-01-08,43185.27,0.27,Creating and running video ads on platforms like YouTube to showcase our services and listings.
+22,Open House Events,2023-09-05,2024-07-17,48061.22,0.86,Hosting open houses to showcase properties to potential buyers and generate interest.
+23,Real Estate Seminars,2023-09-17,2024-04-19,38917.26,0.57,Organizing seminars to educate potential buyers and sellers about the real estate process and market trends.
+24,Public Relations Campaign,2023-09-28,2024-05-29,92166.41,4.2,Conducting PR campaigns to secure media coverage and build our brand reputation.
+25,Online Video Ads,2023-10-10,2024-07-02,41979.7,2.3,Creating and running video ads on platforms like YouTube to showcase our services and listings.
+26,Client Referral Program,2023-10-22,2024-06-07,39005.1,4.74,Implementing a referral program to incentivize existing clients to refer new clients.
+27,Public Relations Campaign,2023-11-03,2024-05-30,96354.58,1.19,Conducting PR campaigns to secure media coverage and build our brand reputation.
+28,Radio Advertisements,2023-11-14,2024-02-25,80731.98,3.82,Airing radio ads on popular stations to drive local awareness and interest in our real estate services.
+29,Virtual Tours,2023-11-26,2024-03-07,34594.68,0.29,Creating immersive virtual tours of properties to provide remote buyers with an in-depth viewing experience.
+30,Real Estate Expo Participation,2023-12-08,2024-05-07,41789.69,2.02,Attending and exhibiting at real estate expos to network with industry professionals and potential clients.
+31,Real Estate Expo Participation,2023-12-20,2024-02-20,49926.94,2.2,Attending and exhibiting at real estate expos to network with industry professionals and potential clients.
+32,Email Marketing Campaign,2024-01-01,2024-07-01,61449.86,3.66,"Sending out newsletters and promotional emails to a curated list of subscribers with updates on new listings, market trends, and company news."
+33,Real Estate Expo Participation,2024-01-12,2024-03-15,72344.57,1.92,Attending and exhibiting at real estate expos to network with industry professionals and potential clients.
+34,Influencer Partnerships,2024-01-24,2024-02-27,45208.65,2.76,Collaborating with local influencers to promote our services and listings on their social media channels.
+35,Radio Advertisements,2024-02-05,2024-03-15,29739.88,0.46,Airing radio ads on popular stations to drive local awareness and interest in our real estate services.
+36,Public Relations Campaign,2024-02-17,2024-02-22,42701.3,4.75,Conducting PR campaigns to secure media coverage and build our brand reputation.
+37,Virtual Tours,2024-02-28,2024-03-16,5143.88,2.11,Creating immersive virtual tours of properties to provide remote buyers with an in-depth viewing experience.
+38,Print Advertising,2024-03-11,2024-04-08,48404.09,1.03,"Running ads in local newspapers, magazines, and real estate publications to reach a traditional audience."
+39,Public Relations Campaign,2024-03-23,2024-07-09,87646.44,2.35,Conducting PR campaigns to secure media coverage and build our brand reputation.
+40,Email Marketing Campaign,2024-04-04,2024-04-19,65806.15,4.25,"Sending out newsletters and promotional emails to a curated list of subscribers with updates on new listings, market trends, and company news."
+41,Real Estate Expo Participation,2024-04-16,2024-05-09,90497.4,2.62,Attending and exhibiting at real estate expos to network with industry professionals and potential clients.
+42,Client Referral Program,2024-04-27,2024-05-12,29103.14,2.44,Implementing a referral program to incentivize existing clients to refer new clients.
+43,Content Marketing,2024-05-09,2024-07-26,29863.74,3.01,"Producing blog posts, videos, and other content to educate and engage potential clients about the real estate market."
+44,Television Commercials,2024-05-21,2024-07-20,11056.05,0.16,Broadcasting TV ads during prime time on major networks to reach a broad audience and promote our services.
+45,Client Referral Program,2024-06-02,2024-06-13,85211.82,3.62,Implementing a referral program to incentivize existing clients to refer new clients.
+46,Public Relations Campaign,2024-06-13,2024-06-18,70698.0,2.87,Conducting PR campaigns to secure media coverage and build our brand reputation.
+47,Television Commercials,2024-06-25,2024-07-07,14787.22,3.48,Broadcasting TV ads during prime time on major networks to reach a broad audience and promote our services.
+48,Search Engine Marketing,2024-07-07,2024-07-18,25289.91,2.34,Implementing paid search campaigns on Google and Bing to capture leads actively searching for real estate services.
+49,Social Media Advertising,2024-07-19,2024-07-21,4179.61,2.17,"Running targeted ads on social media platforms like Facebook, Instagram, and LinkedIn to increase brand awareness and attract potential clients."
+50,Email Marketing Campaign,2024-07-31,2024-07-31,14423.34,3.28,"Sending out newsletters and promotional emails to a curated list of subscribers with updates on new listings, market trends, and company news."

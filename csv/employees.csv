@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,gender,date_of_birth,email,date_of_employment,position,department_id,employment_status,office_id,employment_type
+1,Michele,Ramirez,Male,2002-01-10,michele.ramirez@gmail.com,2021-03-08,Real Estate Analyst,1,Inactive,2,Part-time
+2,Joel,Cantrell,Male,1990-03-25,joel.cantrell@gmail.com,2021-10-28,Real Estate Agent,4,Active,2,Contract
+3,Amanda,Schmidt,Female,1967-11-12,amanda.schmidt@gmail.com,2022-11-11,Leasing Consultant,4,Active,1,Contract
+4,Martha,Phillips,Female,1971-09-22,martha.phillips@gmail.com,2020-06-16,Real Estate Assistant,4,Inactive,3,Full-time
+5,Brittany,Stuart,Female,1991-11-10,brittany.stuart@gmail.com,2021-01-28,Real Estate Agent,3,Inactive,1,Part-time
+6,Nicole,Beck,Male,1984-02-12,nicole.beck@gmail.com,2020-05-16,Real Estate Agent,1,Inactive,1,Full-time
+7,Timothy,Diaz,Male,1969-07-23,timothy.diaz@gmail.com,2020-12-01,Real Estate Assistant,5,Inactive,3,Contract
+8,Maria,Robinson,Male,1969-01-13,maria.robinson@gmail.com,2022-05-27,Property Appraiser,5,On Leave,3,Full-time
+9,David,Page,Female,1974-01-18,david.page@gmail.com,2024-02-17,Real Estate Agent,2,Inactive,2,Part-time
+10,Tommy,Vaughn,Female,1960-04-19,tommy.vaughn@gmail.com,2024-04-09,Property Appraiser,1,Active,1,Contract
+11,John,Santos,Female,1963-11-24,john.santos@gmail.com,2020-04-27,Real Estate Agent,2,Inactive,1,Part-time
+12,Jimmy,Macias,Male,1964-11-01,jimmy.macias@gmail.com,2020-08-07,Home Inspector,1,Active,3,Part-time
+13,Jay,Jones,Female,1999-10-03,jay.jones@gmail.com,2023-06-25,Real Estate Developer,5,On Leave,2,Part-time
+14,Elizabeth,Bennett,Female,1994-09-04,elizabeth.bennett@gmail.com,2024-07-20,Home Inspector,1,Active,2,Full-time
+15,Todd,Moore,Male,1961-11-22,todd.moore@gmail.com,2022-07-08,Real Estate Agent,3,Active,2,Part-time
+16,Adam,Contreras,Male,1971-10-04,adam.contreras@gmail.com,2021-09-05,Property Manager,1,Inactive,3,Part-time
+17,Jesse,Kaufman,Female,1965-01-05,jesse.kaufman@gmail.com,2021-10-07,Real Estate Analyst,2,Inactive,3,Contract
+18,Kayla,Brandt,Female,2006-03-23,kayla.brandt@gmail.com,2020-09-24,Real Estate Developer,2,Inactive,3,Part-time
+19,Craig,Gonzalez,Male,1961-06-06,craig.gonzalez@gmail.com,2023-11-29,Property Manager,3,Inactive,1,Part-time
+20,Pamela,Velazquez,Female,1964-09-01,pamela.velazquez@gmail.com,2024-02-22,Property Manager,2,On Leave,1,Contract
+21,Steven,Allen,Male,1977-10-18,steven.allen@gmail.com,2023-03-19,Leasing Consultant,4,On Leave,1,Full-time
+22,Jeffrey,Johnson,Female,1994-08-12,jeffrey.johnson@gmail.com,2021-03-12,Real Estate Agent,1,Active,1,Part-time
+23,Lisa,Ho,Male,1978-08-24,lisa.ho@gmail.com,2020-12-10,Real Estate Assistant,1,Active,1,Contract
+24,Heather,Jennings,Male,2000-09-15,heather.jennings@gmail.com,2021-01-29,Real Estate Assistant,2,Inactive,3,Contract
+25,Nancy,Gibbs,Male,1995-05-24,nancy.gibbs@gmail.com,2022-05-03,Property Manager,4,On Leave,2,Part-time
+26,Joshua,Gordon,Male,1985-06-10,joshua.gordon@gmail.com,2024-04-29,Leasing Consultant,3,Active,1,Part-time
+27,Paul,Hall,Female,1981-11-26,paul.hall@gmail.com,2022-02-16,Real Estate Agent,3,On Leave,1,Full-time
+28,Dawn,Brown,Female,1992-10-25,dawn.brown@gmail.com,2021-01-06,Real Estate Analyst,2,On Leave,2,Contract
+29,Eric,Lawrence,Female,1985-04-26,eric.lawrence@gmail.com,2023-10-02,Real Estate Developer,1,Active,1,Contract
+30,James,Brown,Male,2000-06-28,james.brown@gmail.com,2023-05-02,Home Inspector,1,Active,1,Contract
+31,Jenny,Mitchell,Male,1997-02-05,jenny.mitchell@gmail.com,2020-06-01,Real Estate Analyst,5,Active,1,Part-time
+32,Michael,Dickerson,Female,1983-06-16,michael.dickerson@gmail.com,2022-04-27,Real Estate Agent,5,Inactive,2,Part-time
+33,Amanda,Lewis,Male,1964-07-13,amanda.lewis@gmail.com,2023-02-12,Property Appraiser,2,Active,1,Contract
+34,Bethany,Brooks,Female,1989-07-07,bethany.brooks@gmail.com,2023-12-07,Real Estate Developer,3,Active,2,Part-time
+35,Brandi,Dixon,Female,1980-08-30,brandi.dixon@gmail.com,2023-01-26,Home Inspector,1,Inactive,1,Full-time
+36,Jenna,Johnson,Male,1969-07-03,jenna.johnson@gmail.com,2021-09-09,Real Estate Assistant,4,On Leave,2,Contract
+37,Jennifer,Skinner,Male,1990-10-20,jennifer.skinner@gmail.com,2023-02-09,Property Manager,4,Active,2,Full-time
+38,Donna,Hill,Male,1973-04-07,donna.hill@gmail.com,2021-10-17,Property Appraiser,3,Inactive,1,Full-time
+39,Samantha,Ferrell,Male,1971-04-30,samantha.ferrell@gmail.com,2024-03-26,Property Appraiser,4,Inactive,3,Contract
+40,Joseph,Davis,Female,1995-12-24,joseph.davis@gmail.com,2021-01-24,Real Estate Developer,4,On Leave,3,Full-time
+41,Sarah,Higgins,Female,1981-04-14,sarah.higgins@gmail.com,2023-05-06,Real Estate Analyst,2,On Leave,2,Contract
+42,Dawn,Gordon,Male,1967-06-16,dawn.gordon@gmail.com,2022-02-25,Property Appraiser,4,Inactive,3,Full-time
+43,Janet,Williams,Male,1966-05-17,janet.williams@gmail.com,2020-03-24,Home Inspector,4,Inactive,1,Contract
+44,Jennifer,Newton,Female,1990-06-19,jennifer.newton@gmail.com,2021-11-13,Real Estate Agent,2,On Leave,3,Full-time
+45,Robert,Liu,Male,1972-01-20,robert.liu@gmail.com,2020-07-09,Real Estate Agent,5,Inactive,1,Contract
+46,Benjamin,Cooper,Male,1973-06-15,benjamin.cooper@gmail.com,2022-03-23,Property Appraiser,1,On Leave,2,Part-time
+47,Jennifer,Horn,Male,1965-12-20,jennifer.horn@gmail.com,2021-03-16,Real Estate Developer,5,Inactive,3,Part-time
+48,James,Harris,Male,2006-05-13,james.harris@gmail.com,2020-02-08,Real Estate Developer,4,Inactive,2,Part-time
+49,Teresa,Elliott,Female,1970-04-03,teresa.elliott@gmail.com,2023-07-14,Real Estate Developer,5,Inactive,1,Contract
+50,Kelli,Mendoza,Male,1969-08-05,kelli.mendoza@gmail.com,2023-04-02,Property Manager,1,On Leave,2,Full-time

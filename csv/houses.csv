@@ -1,0 +1,1969 @@
+house_id,address,city,state,zip_code,type,bedrooms,bathrooms,sqft,price,status
+1,"05629 Johnson Meadow Suite 977
+Lake Luistown",Syracuse,NY,13167,Single Family,1,1,905,1354116.86,Available
+2,"41410 Morgan Loaf Apt. 914
+Hayesborough",Waterbury,CT,06039,Townhouse,5,2,1303,480734.92,Sold
+3,"271 Evans Island
+Daniellechester",Edison,NJ,08719,Multi Family,2,2,1399,281964.49,Available
+4,"72119 Jill Mount
+Port Christine",Jersey City,NJ,08405,Townhouse,5,4,1119,1828583.38,Pending
+5,"96490 Jennifer Prairie Suite 632
+Tracyburgh",Rochester,NY,12342,Single Family,3,1,3017,458006.49,Pending
+6,"870 Palmer Mills Suite 324
+New Melissa",Elizabeth,NJ,07288,Single Family,1,1,1466,1838222.66,Pending
+7,"0286 White Coves Apt. 450
+East Deborahhaven",New York,NY,12821,Townhouse,2,2,2354,1202118.92,Pending
+8,"521 Christopher Street Apt. 392
+Darrenfurt",Bridgeport,CT,06266,Townhouse,2,2,843,1397358.61,Available
+9,"27163 Jonathan Extension Apt. 436
+New Adamchester",Elizabeth,NJ,07776,Condo,1,2,2960,1377624.99,Pending
+10,"2330 Andrew Fork
+Goodchester",Syracuse,NY,13691,Multi Family,2,1,2790,450004.46,Available
+11,"0636 Marvin Shore Apt. 966
+Port Ronald",New Haven,CT,06231,Condo,3,1,1446,1812675.15,Pending
+12,"Unit 5271 Box 0097
+DPO AE 91168",Elizabeth,NJ,07066,Condo,1,3,3013,1585401.48,Rented
+13,"USS Lewis
+FPO AE 90234",Rochester,NY,10335,Condo,5,1,2289,1247125.49,Rented
+14,"7145 Walters Point
+Port Marcusborough",Elizabeth,NJ,08503,Multi Family,4,3,937,549974.17,Sold
+15,"578 Aguilar Ranch
+Andersonview",Hartford,CT,06038,Multi Family,3,3,2411,1165716.71,Rented
+16,"173 Saunders Forge
+Rebekahtown",Stamford,CT,06206,Single Family,1,3,2643,1475703.25,Pending
+17,"184 Shawn Motorway
+Donaldview",Bridgeport,CT,06127,Multi Family,2,3,1068,840989.71,Pending
+18,"8788 Hamilton Club Apt. 453
+Lake Thomas",Rochester,NY,11543,Single Family,4,2,2703,1219247.8,Rented
+19,"505 Lozano Cliffs
+Whiteland",Waterbury,CT,06197,Single Family,1,4,2989,896651.16,Rented
+20,"569 Gonzales Ferry Apt. 872
+East Amy",Waterbury,CT,06038,Townhouse,1,2,3420,501382.42,Sold
+21,"6983 Rodriguez Forest
+East Nicholaschester",Waterbury,CT,06346,Multi Family,5,1,4347,1331241.21,Rented
+22,"061 Jennifer Dale Apt. 551
+North Jessicaview",Jersey City,NJ,08836,Townhouse,3,2,2832,1021298.37,Sold
+23,"4026 Margaret Lodge Suite 698
+North Ericfurt",Syracuse,NY,13919,Multi Family,4,4,4877,975365.32,Sold
+24,"USNS Burke
+FPO AP 53640",New Haven,CT,06128,Townhouse,2,4,1507,1639346.01,Rented
+25,"50161 Tina Drives Suite 798
+Josephport",Rochester,NY,12720,Townhouse,5,1,4286,1858745.08,Available
+26,"76749 Martinez Greens Suite 371
+South Christopher",Newark,NJ,08751,Condo,5,2,4008,1162464.43,Sold
+27,"727 Weiss Prairie Apt. 282
+Scottmouth",Yonkers,NY,12923,Single Family,4,3,3269,1169557.84,Available
+28,"344 Hernandez Pike
+Port Allen",Edison,NJ,07062,Townhouse,2,3,3121,1178490.55,Available
+29,"23867 Mary Mountain
+Paultown",Waterbury,CT,06201,Multi Family,1,4,2387,852168.32,Pending
+30,"9177 Taylor Passage Suite 285
+East Michael",Hartford,CT,06308,Multi Family,2,2,1208,141435.92,Pending
+31,"USCGC Patterson
+FPO AE 15502",New York,NY,14515,Condo,4,2,2764,1453647.4,Sold
+32,"798 Tommy Locks Suite 607
+Kennethmouth",Newark,NJ,07116,Single Family,4,1,3058,543875.9,Sold
+33,"6739 Gray Dale Apt. 640
+Cruztown",Yonkers,NY,13395,Multi Family,5,3,3731,1943521.76,Pending
+34,"9350 Jones Courts
+Rogershaven",Syracuse,NY,13547,Townhouse,2,2,911,697944.25,Rented
+35,"06818 Mary Loaf Apt. 729
+Garciaton",Elizabeth,NJ,07208,Single Family,5,3,1675,617845.19,Rented
+36,"81908 Sutton Dale Suite 748
+Port Jefferyhaven",Buffalo,NY,12331,Townhouse,4,3,4708,1042655.79,Available
+37,"369 Brent Glens Suite 503
+Kathleenview",Hartford,CT,06092,Multi Family,4,1,3248,1442045.46,Sold
+38,PSC 0064,Jersey City,NJ,08973,Condo,3,3,1691,113258.38,Pending
+39,"90674 Michael Village Suite 783
+Jacobtown",Waterbury,CT,06117,Multi Family,2,4,1172,1206547.82,Rented
+40,"033 Kimberly Ford
+Maryland",Edison,NJ,08752,Condo,4,4,1930,1649630.97,Pending
+41,"689 Paul Roads Suite 736
+Lake Donaldville",Waterbury,CT,06252,Multi Family,3,3,3883,232311.89,Sold
+42,"4117 Walker Tunnel
+East Danielshire",Waterbury,CT,06346,Townhouse,2,1,3712,307199.22,Rented
+43,"275 Andrea Fall Apt. 337
+East Catherineside",Jersey City,NJ,08424,Townhouse,1,3,2802,1295875.32,Available
+44,"392 Alex Corner Suite 965
+East Jennifer",Hartford,CT,06331,Single Family,3,2,1576,1335590.63,Sold
+45,"507 Nelson Views Suite 765
+South Rachel",Elizabeth,NJ,07697,Multi Family,4,2,4875,189516.75,Available
+46,"158 Martinez Street
+Port Larrymouth",Bridgeport,CT,06320,Townhouse,1,1,4100,1461387.92,Sold
+47,"0953 Dennis Mountain
+Lake Kevin",Edison,NJ,08534,Condo,3,1,948,167036.62,Available
+48,"USNV Cruz
+FPO AP 11476",New Haven,CT,06031,Condo,3,4,1347,1622436.36,Available
+49,"6474 Matthew Crossroad
+Moranchester",Buffalo,NY,11352,Condo,3,4,3673,1194505.94,Available
+50,"189 Johnson Drive
+Bestberg",Edison,NJ,07880,Condo,3,4,1329,1378769.44,Pending
+51,"743 Robert Lane
+Amytown",Stamford,CT,06340,Condo,5,1,2005,1609453.16,Available
+52,"6487 Erickson Drive Suite 494
+Port Robertland",Rochester,NY,11629,Single Family,4,1,4914,1700533.76,Available
+53,"398 Flores Stream
+West Samanthaland",New Haven,CT,06078,Multi Family,4,2,2948,1054284.9,Rented
+54,"308 Roach Points
+South Jamesberg",Yonkers,NY,13507,Condo,4,2,4983,277839.12,Rented
+55,"0057 David Mill
+Port Ericaview",Elizabeth,NJ,07915,Multi Family,1,3,4198,1176907.2,Pending
+56,"89856 Christopher Fall
+South Justin",Buffalo,NY,10204,Townhouse,2,2,862,1534196.51,Available
+57,"42657 Rodriguez Estates Suite 850
+Anthonyton",Edison,NJ,08377,Townhouse,5,1,4112,122743.59,Sold
+58,"USNV Obrien
+FPO AP 14300",Newark,NJ,08804,Condo,3,3,2717,364770.07,Sold
+59,"15658 Sharon Loaf
+Kristenmouth",Stamford,CT,06075,Townhouse,3,1,813,199343.87,Sold
+60,"3856 Perkins Corner
+North Richard",Buffalo,NY,11438,Multi Family,1,3,2969,145414.36,Rented
+61,"50030 Love Trace
+New Bonnieborough",Stamford,CT,06079,Single Family,3,3,3104,762665.42,Rented
+62,"847 Olson Corner Suite 407
+Lewisfort",Stamford,CT,06065,Single Family,3,3,4656,139234.52,Sold
+63,"378 Anthony Centers Suite 640
+East Philip",Elizabeth,NJ,08047,Single Family,1,2,2516,1039529.52,Available
+64,"42863 Campbell Squares Apt. 461
+Petersenshire",Bridgeport,CT,06013,Multi Family,5,3,3420,329527.98,Available
+65,"8587 Sheryl Courts Suite 094
+Brooksland",Waterbury,CT,06264,Single Family,5,2,4922,639411.47,Sold
+66,"5227 Brenda Crossing
+Lake Cynthiabury",Rochester,NY,10589,Multi Family,3,2,2915,1376625.89,Sold
+67,"619 Weaver Tunnel Apt. 044
+Lake Andrewhaven",Edison,NJ,08266,Condo,5,4,999,999505.98,Available
+68,"89649 Victoria Plains
+Lake Maria",New York,NY,13366,Single Family,4,3,2908,457137.46,Available
+69,"52989 Nichole Wells
+Saraland",Buffalo,NY,11593,Multi Family,2,3,4740,456879.43,Rented
+70,"888 Christy Gateway Suite 651
+Jonesborough",Edison,NJ,07214,Single Family,2,2,3217,1173959.68,Available
+71,"1328 Dale Valley
+Michelleburgh",Rochester,NY,11842,Townhouse,4,3,4553,1560765.34,Available
+72,"64780 Morales Trafficway Apt. 450
+Reillyview",Jersey City,NJ,07480,Condo,2,2,4399,1122307.21,Sold
+73,"5345 Perez Squares
+Stevenhaven",Paterson,NJ,07761,Condo,5,3,1836,626667.26,Pending
+74,"32940 Sharon Club Suite 840
+Gregoryberg",Jersey City,NJ,07567,Single Family,3,2,4798,264399.58,Sold
+75,"151 Noah Keys
+South John",Jersey City,NJ,07966,Condo,5,2,3161,168854.97,Pending
+76,"2953 Ortiz Park Apt. 643
+East Patrick",Bridgeport,CT,06272,Multi Family,3,2,2668,1660721.2,Available
+77,"2190 Robertson Cliffs Suite 846
+Port Ryanton",Jersey City,NJ,07937,Multi Family,5,4,2399,1196925.24,Rented
+78,"900 Lewis Parkway Suite 323
+Lake Alyssa",New Haven,CT,06237,Condo,5,1,2566,1344973.99,Pending
+79,"6064 Mason Junctions Suite 805
+Aaronfurt",Paterson,NJ,08092,Townhouse,5,3,4836,1320133.65,Pending
+80,"USS Frey
+FPO AP 51001",New York,NY,13562,Condo,5,1,3636,944342.47,Pending
+81,"498 Benson Shores Suite 020
+Andrewburgh",Jersey City,NJ,08213,Single Family,3,3,4045,855925.5,Pending
+82,"840 Thompson Flat
+Chasestad",Buffalo,NY,13796,Multi Family,4,1,3193,1405351.69,Sold
+83,"322 Dawn Stream Suite 297
+Whitemouth",Waterbury,CT,06157,Townhouse,2,4,3776,749630.92,Available
+84,"USCGC Wilson
+FPO AA 59241",Jersey City,NJ,08097,Townhouse,2,2,4439,347493.1,Sold
+85,"27675 Ernest Square Apt. 608
+Arthurland",Elizabeth,NJ,07111,Condo,5,3,2141,1665144.67,Rented
+86,"772 Wells Knoll Suite 890
+Kingstad",Buffalo,NY,11238,Multi Family,3,4,3436,111214.96,Sold
+87,PSC 9371,Hartford,CT,06153,Townhouse,3,1,3233,586737.39,Pending
+88,"968 Garcia Circle
+Taylorland",Jersey City,NJ,08697,Single Family,1,4,4633,504486.25,Available
+89,"62015 Pam Drive
+South Cynthia",Jersey City,NJ,07869,Townhouse,4,3,4472,591418.6,Pending
+90,"35525 Alisha Summit Apt. 706
+North Allisonside",Yonkers,NY,12545,Condo,2,2,4533,1883171.68,Rented
+91,"394 Turner Fork
+Port Juliehaven",Rochester,NY,13871,Condo,3,2,2990,1660984.52,Available
+92,"966 Heath Land
+Port Joshuaville",Hartford,CT,06380,Townhouse,1,3,1428,1314254.86,Sold
+93,"9918 Rubio Manor Apt. 763
+Gregoryhaven",Yonkers,NY,10374,Condo,3,3,1394,288183.86,Available
+94,"03181 Johnson Throughway
+Christophermouth",Paterson,NJ,07278,Multi Family,5,1,4842,1863143.89,Pending
+95,"72794 Sarah Streets
+Port Christine",Hartford,CT,06034,Condo,1,2,4775,1495954.92,Sold
+96,"3078 Paige Forest
+South Scott",Elizabeth,NJ,07374,Townhouse,3,1,2106,893712.54,Rented
+97,"2892 Stone Court Suite 223
+Lake Markberg",Bridgeport,CT,06259,Townhouse,3,1,2517,1117454.93,Sold
+98,"1927 Sandoval Glens
+Kevinport",Syracuse,NY,10907,Condo,2,2,3095,265001.39,Pending
+99,"0858 Horne Hill
+Annettechester",Bridgeport,CT,06064,Townhouse,2,3,1590,687092.16,Rented
+100,"826 Andrew Extensions Suite 961
+East Jose",Hartford,CT,06245,Single Family,2,3,2924,882539.85,Rented
+101,"631 Krista Haven
+Kristyfort",Rochester,NY,11627,Condo,3,3,4490,1334262.18,Pending
+102,"Unit 0992 Box 4861
+DPO AE 82777",Rochester,NY,11347,Multi Family,1,2,4740,384141.93,Pending
+103,"657 Harris Estates
+Millerburgh",Buffalo,NY,11251,Single Family,2,3,3457,1597005.13,Sold
+104,"61507 Debbie Row
+North Richard",New York,NY,14591,Multi Family,2,2,4060,908389.67,Pending
+105,"156 Garcia Bridge
+Jonesbury",Paterson,NJ,08173,Townhouse,5,2,2442,637629.45,Available
+106,"472 Andrea Mountain Apt. 084
+Lake Adam",Elizabeth,NJ,07833,Single Family,2,1,1008,312411.49,Available
+107,"2822 Victor Circles
+Lake Timothy",Hartford,CT,06322,Townhouse,5,2,4752,1243201.71,Sold
+108,"7425 Emily Rest Apt. 899
+West Alicia",Stamford,CT,06289,Multi Family,1,3,1177,1023935.7,Available
+109,"Unit 7881 Box 9605
+DPO AE 48394",Buffalo,NY,12469,Condo,2,2,3891,1725227.85,Available
+110,"161 Mclaughlin Circle
+Lake Robert",Yonkers,NY,14564,Single Family,4,4,4090,1341429.99,Available
+111,"98193 Wilson Corner Suite 921
+Lake Sandy",Stamford,CT,06130,Townhouse,3,4,4825,1558666.66,Pending
+112,"019 Curtis Rapid
+West Leslie",Paterson,NJ,07976,Townhouse,1,3,3321,867626.96,Available
+113,"484 Brown Stream Apt. 457
+South Michelle",New York,NY,13086,Single Family,1,3,2834,151792.39,Available
+114,"633 Cooper Creek Apt. 456
+Christineburgh",New Haven,CT,06370,Townhouse,1,1,1575,1393634.24,Rented
+115,"472 Brown Forge Suite 266
+Christensenview",Edison,NJ,07996,Condo,2,1,1140,1773123.65,Rented
+116,"4903 Williams Glen
+South Laurenfort",Elizabeth,NJ,08484,Single Family,1,4,2073,276439.24,Pending
+117,"3853 Morrow Canyon Apt. 725
+Boydmouth",New Haven,CT,06002,Multi Family,1,2,2071,181022.28,Available
+118,"526 Andrade Wall Suite 046
+Port Cheryl",Buffalo,NY,14010,Townhouse,1,2,2589,1217220.12,Available
+119,"373 Evans Mount
+Port Alejandrofort",Paterson,NJ,08362,Single Family,1,1,3528,598077.39,Available
+120,"7576 Fowler Row
+East Lauren",Elizabeth,NJ,07145,Condo,1,4,3492,1191122.79,Pending
+121,"6007 Ortega Curve Apt. 702
+North Mariatown",Yonkers,NY,11693,Multi Family,1,3,1988,252299.92,Available
+122,"5789 Julie Oval Apt. 606
+Harrisborough",New Haven,CT,06137,Single Family,2,4,1212,427325.04,Available
+123,"58628 Tiffany Trace
+Williamburgh",New York,NY,12292,Multi Family,4,3,4262,487313.41,Rented
+124,"924 Wilson Circle Suite 203
+South Jesusstad",Rochester,NY,11186,Townhouse,3,2,3985,683385.6,Available
+125,"0209 Ashley Gardens Apt. 818
+Libury",Rochester,NY,10465,Single Family,1,3,3571,1234050.42,Rented
+126,"USCGC Miller
+FPO AE 81605",Syracuse,NY,14418,Townhouse,2,2,1110,1420605.14,Available
+127,PSC 3194,Elizabeth,NJ,07148,Condo,5,2,1979,466644.84,Sold
+128,"0342 Chavez Burgs
+Meyersland",New York,NY,10201,Single Family,3,2,2974,922957.1,Pending
+129,"397 Lisa Mountains Apt. 514
+Stephenhaven",Newark,NJ,07559,Single Family,3,1,2858,1670875.11,Pending
+130,"USCGC Dodson
+FPO AA 68763",Hartford,CT,06080,Condo,5,3,4242,482096.02,Pending
+131,"37542 Ortiz Pine
+Port Seanberg",Stamford,CT,06151,Multi Family,3,1,4272,364471.11,Pending
+132,"87685 Henderson Ramp
+New Heather",Bridgeport,CT,06178,Single Family,1,1,2359,392510.18,Rented
+133,"908 Gonzalez Extension Apt. 526
+East Katherine",Syracuse,NY,13853,Condo,2,4,1575,509801.39,Rented
+134,"396 Cole Cove
+Woodsborough",Syracuse,NY,13370,Multi Family,3,1,4336,120037.99,Pending
+135,"2591 Elizabeth Garden Apt. 795
+Port Robert",Yonkers,NY,12126,Townhouse,3,4,4927,864374.55,Rented
+136,"8309 Stephanie Pines Suite 194
+South Susan",Rochester,NY,10621,Condo,3,1,3009,481377.89,Sold
+137,"926 Frost Prairie
+East Cynthia",Syracuse,NY,11121,Condo,4,2,2277,1576608.02,Rented
+138,"2138 Ferguson Expressway
+New Samanthaberg",Edison,NJ,07544,Townhouse,5,3,1244,569315.74,Sold
+139,"8412 Mary Hill Suite 874
+East Allisonberg",New Haven,CT,06076,Multi Family,2,4,1310,402897.56,Sold
+140,"24822 Jones Vista
+Victoriahaven",Jersey City,NJ,08713,Townhouse,2,3,2170,338110.13,Pending
+141,"2497 Cervantes Inlet
+Lake Sherylburgh",Elizabeth,NJ,07649,Condo,5,2,2553,260916.8,Sold
+142,"92217 Burton Roads Apt. 400
+Jessicahaven",Newark,NJ,07544,Single Family,4,4,3276,620388.13,Pending
+143,"9092 Perez Ports Apt. 734
+Christinehaven",Paterson,NJ,08895,Single Family,2,3,2170,272479.35,Sold
+144,"14220 Rice Meadow
+Melissastad",Edison,NJ,08250,Townhouse,4,2,3666,1416917.41,Available
+145,"735 Mark Lakes Apt. 782
+Reidfurt",Jersey City,NJ,08862,Condo,5,4,4589,1500954.49,Pending
+146,"26211 Gregory Highway Suite 391
+South Craig",Edison,NJ,07086,Multi Family,4,1,847,1949244.14,Rented
+147,"5479 Stephen Well
+Jessicamouth",Buffalo,NY,14349,Multi Family,5,4,1163,212997.14,Available
+148,"518 Sanchez Greens
+Hamiltonborough",Stamford,CT,06181,Condo,4,2,1848,1589793.78,Sold
+149,"514 Schroeder Crossing Apt. 376
+Campbellstad",Yonkers,NY,13045,Single Family,3,2,2334,287874.39,Pending
+150,"411 Wendy Throughway Apt. 286
+West Robertview",Syracuse,NY,10076,Multi Family,3,3,1253,1613382.19,Available
+151,"0283 Charlene Shores Apt. 825
+Jeffreyport",Hartford,CT,06069,Multi Family,2,2,4577,1281789.37,Sold
+152,"940 Bolton Forest Suite 408
+East Noahshire",Paterson,NJ,07701,Townhouse,1,1,2628,1744180.42,Rented
+153,"3509 Clark Drives Suite 791
+Sethshire",Paterson,NJ,08707,Townhouse,1,2,4606,534832.46,Available
+154,"826 Medina Courts Apt. 521
+Lake Edwardville",New York,NY,14468,Multi Family,2,3,2172,1924462.05,Sold
+155,"4936 Kevin Mews
+Fitzgeraldside",Buffalo,NY,14818,Single Family,1,1,2816,1659921.66,Available
+156,"3696 Timothy Summit Apt. 560
+Port Alexander",Stamford,CT,06214,Single Family,4,3,1109,898250.2,Rented
+157,"USS Robertson
+FPO AE 61735",Elizabeth,NJ,07551,Single Family,5,3,2710,1901351.24,Available
+158,"26395 Stephanie Field Suite 310
+Wisestad",Newark,NJ,07289,Multi Family,4,2,4474,928583.42,Sold
+159,"148 Wolf Mountain
+New Bobby",New York,NY,10898,Single Family,5,2,1483,1846184.28,Pending
+160,"295 Lucas Extension Suite 575
+Jonesfurt",Rochester,NY,11327,Condo,4,4,4247,1875087.71,Sold
+161,"6936 Pam Point Apt. 921
+Alecside",Jersey City,NJ,07913,Single Family,5,4,943,720406.98,Sold
+162,PSC 8664,Bridgeport,CT,06168,Townhouse,1,2,2103,316535.24,Pending
+163,"08415 Tim Mill Suite 877
+Smithshire",New York,NY,11247,Single Family,3,1,1367,295144.56,Available
+164,"Unit 1021 Box 1196
+DPO AA 21664",New York,NY,10957,Single Family,2,4,1267,1194277.79,Sold
+165,"894 John Meadows
+Christineview",Bridgeport,CT,06379,Townhouse,1,2,3015,674725.42,Sold
+166,"066 West Islands Suite 204
+Lake Grace",Waterbury,CT,06136,Townhouse,5,3,3597,1958438.81,Pending
+167,"7632 Heidi Mountains Apt. 520
+South Travis",Hartford,CT,06066,Townhouse,2,2,1881,482804.02,Rented
+168,"3928 Page Valleys
+Port Tylerburgh",Paterson,NJ,08175,Townhouse,2,4,2097,892541.94,Pending
+169,"Unit 4015 Box 2277
+DPO AP 67245",Syracuse,NY,13061,Single Family,5,3,2471,1590326.53,Available
+170,"962 Alexis Cliff
+New Scotthaven",Hartford,CT,06267,Multi Family,1,2,2375,948100.61,Sold
+171,"72250 Rodgers Ferry
+West Garyside",Bridgeport,CT,06054,Multi Family,3,4,2561,1273916.43,Sold
+172,"2023 Sims Drives
+South Tylerton",Bridgeport,CT,06139,Condo,2,2,4455,1716061.99,Available
+173,"Unit 8895 Box 5408
+DPO AE 32227",Buffalo,NY,12717,Townhouse,1,3,2893,1956774.79,Pending
+174,"04840 Tiffany Point Apt. 089
+Bettymouth",Buffalo,NY,13721,Single Family,2,1,3517,466136.75,Sold
+175,"4318 Vincent Curve
+North Kayla",Buffalo,NY,13397,Single Family,5,1,1270,173458.41,Rented
+176,"3230 Gordon Walks Apt. 030
+Reevesbury",Elizabeth,NJ,07739,Single Family,4,1,3516,1535087.87,Rented
+177,"143 Fisher Flats
+Christopherton",Paterson,NJ,07775,Multi Family,4,1,3346,1269506.53,Pending
+178,"863 Alicia Avenue
+West Matthewburgh",Syracuse,NY,11830,Condo,5,2,2092,480187.9,Rented
+179,"64090 Joseph Place
+Devonberg",Jersey City,NJ,07728,Multi Family,5,2,1253,1375898.74,Rented
+180,"83377 Miller Gardens Apt. 917
+West Paula",Edison,NJ,08741,Condo,5,4,3039,263214.95,Rented
+181,"387 Cheyenne Corner
+Brewerbury",Paterson,NJ,08327,Condo,2,2,1044,599435.17,Rented
+182,"Unit 6456 Box 4786
+DPO AE 87785",Syracuse,NY,13046,Townhouse,1,1,2162,772853.05,Sold
+183,"343 Alex Greens
+New Janice",Edison,NJ,08908,Condo,2,3,4035,832437.27,Sold
+184,"401 John Lakes Apt. 577
+Lake Angie",Jersey City,NJ,08967,Single Family,5,3,1347,1826963.57,Pending
+185,"4206 Brown Track
+Barkerburgh",New Haven,CT,06382,Townhouse,1,3,3030,1417250.6,Available
+186,"560 Anderson Trail Suite 012
+Arnoldhaven",New Haven,CT,06171,Townhouse,5,4,912,1861979.15,Available
+187,"77728 Marsh Mission Apt. 295
+Moralesville",Edison,NJ,07423,Multi Family,1,1,3903,1066081.04,Rented
+188,"4394 Jones Corners Suite 413
+Harristown",Elizabeth,NJ,08406,Multi Family,1,2,4747,565001.37,Rented
+189,"5462 Amanda View
+East Samanthabury",Waterbury,CT,06151,Townhouse,5,2,3997,442158.79,Sold
+190,"4743 Stephanie Bridge
+East Tracie",Bridgeport,CT,06200,Single Family,1,3,3271,314660.52,Rented
+191,"560 Waller Parkway Suite 899
+South Ethan",Rochester,NY,11797,Townhouse,4,2,4382,726473.19,Available
+192,"8493 Lee Roads Apt. 418
+Dylanchester",New Haven,CT,06299,Condo,5,3,4948,822782.7,Sold
+193,"33772 Alexander Coves
+Lake Richardland",New Haven,CT,06169,Multi Family,5,1,1387,223270.53,Sold
+194,"80759 Miranda Ranch
+Amberborough",New York,NY,14267,Multi Family,4,3,2541,1075486.05,Sold
+195,"825 Osborne Port Apt. 297
+West Curtisville",Elizabeth,NJ,08534,Single Family,4,3,2287,1031438.57,Rented
+196,"2264 Jesse Prairie Apt. 340
+Sandovalmouth",New Haven,CT,06383,Multi Family,1,4,2613,402004.81,Available
+197,"91850 Clark Estates Apt. 578
+Arthurland",Newark,NJ,07090,Multi Family,3,1,3009,677079.15,Available
+198,"33299 Barnes Lock
+Kellyhaven",Stamford,CT,06141,Single Family,3,4,2347,803101.71,Rented
+199,"999 Brooks Vista
+Cynthiafurt",Edison,NJ,08790,Townhouse,3,2,3459,295625.93,Available
+200,"USNS Wilson
+FPO AA 03098",Hartford,CT,06236,Townhouse,4,1,2879,1962940.69,Sold
+201,"71176 Sexton Springs
+South Douglas",Newark,NJ,07807,Condo,1,4,1751,158983.15,Rented
+202,"445 George Well Suite 259
+Lake Patrickchester",Syracuse,NY,14144,Condo,3,1,2764,632335.28,Available
+203,"4417 Jodi Inlet Apt. 483
+East Timothymouth",New York,NY,11045,Single Family,1,2,4392,1282014.73,Pending
+204,"7471 Thomas Branch
+South Sally",Elizabeth,NJ,08562,Single Family,1,2,1014,1487833.32,Sold
+205,"29926 Wells Lights
+East Austinton",Elizabeth,NJ,08488,Single Family,1,4,2706,201904.98,Rented
+206,"2474 Hanson Springs
+Elliottport",Buffalo,NY,11492,Multi Family,4,4,4886,416548.39,Available
+207,"5102 Garrett Trail Apt. 241
+Coreyhaven",Newark,NJ,08107,Condo,1,1,3567,1994322.81,Sold
+208,"62121 Theresa Union
+New Stephen",Waterbury,CT,06171,Condo,4,1,3258,1530201.52,Rented
+209,"77537 Ronald Station Apt. 550
+South Christianmouth",Syracuse,NY,13093,Single Family,2,4,3786,1183051.27,Pending
+210,"160 Ware Shores
+Vaughnburgh",Waterbury,CT,06352,Condo,5,2,4260,1453867.17,Rented
+211,"1874 April Ferry
+West Jillville",Newark,NJ,08858,Townhouse,5,4,1203,123048.84,Pending
+212,"192 Michelle Summit
+North Jamesshire",Jersey City,NJ,08018,Townhouse,2,4,4957,1547668.97,Rented
+213,"1259 Kayla Mission Apt. 753
+New Blake",New York,NY,12100,Single Family,5,2,2382,1738624.38,Sold
+214,"0243 Bianca Pine Suite 375
+Pattersonfurt",Hartford,CT,06265,Condo,3,2,3462,1397134.47,Rented
+215,"984 Ronald Land Apt. 937
+South Robert",New York,NY,14442,Condo,4,1,4931,896205.84,Pending
+216,"0342 Colleen Meadow Apt. 097
+New Arthur",New Haven,CT,06380,Multi Family,5,3,1384,1411485.26,Pending
+217,"88166 Bullock Junction Apt. 600
+Dukeville",Newark,NJ,07518,Single Family,2,2,1948,1632356.22,Available
+218,"1632 Devon Road Apt. 603
+New Laura",New York,NY,10484,Townhouse,3,2,1392,1814287.64,Sold
+219,"39916 Kevin Ranch Apt. 812
+Port Tammyport",Buffalo,NY,13317,Condo,4,1,3052,1369834.4,Available
+220,"1249 Humphrey Radial
+Kimberlyview",Bridgeport,CT,06379,Townhouse,2,4,4936,1665211.55,Sold
+221,"449 Henry Way Suite 405
+Kaufmanton",New York,NY,14050,Multi Family,3,4,3392,1279108.75,Pending
+222,"716 Nelson Estate
+Dennisfurt",Paterson,NJ,08869,Condo,1,3,4439,1559762.06,Rented
+223,"7826 John Green
+Jacksonmouth",Buffalo,NY,14802,Condo,4,3,1309,317993.31,Sold
+224,"203 Amanda Orchard
+New Amberborough",New Haven,CT,06009,Condo,5,4,1765,1689423.38,Pending
+225,"54320 Wilson Way
+Solisport",Bridgeport,CT,06027,Multi Family,4,4,2973,360720.38,Sold
+226,"62513 White Lane
+Johnland",Stamford,CT,06265,Townhouse,4,2,4235,479122.25,Sold
+227,"31110 Nelson Locks
+Calvinmouth",Waterbury,CT,06095,Multi Family,4,2,4058,167530.64,Rented
+228,"06991 Karen Oval Suite 033
+West Rachelhaven",Newark,NJ,08040,Single Family,4,3,1592,428025.5,Pending
+229,"466 Stephens Mountains
+Ronnieberg",New Haven,CT,06113,Single Family,4,4,2919,1972082.4,Pending
+230,"52752 Jeffery Mills
+East Edward",Syracuse,NY,12826,Townhouse,2,3,2065,1096870.7,Available
+231,PSC 6642,Rochester,NY,11654,Condo,5,4,2983,1580024.29,Rented
+232,"15034 Aaron Garden
+Mckeeland",Yonkers,NY,10369,Townhouse,5,1,1733,347955.03,Sold
+233,"6857 Laurie Unions Suite 581
+New Alexandraview",Stamford,CT,06380,Condo,3,4,4394,1464158.44,Rented
+234,"1262 Vazquez Squares
+Port Robert",New York,NY,12728,Condo,1,3,1032,739302.76,Available
+235,"Unit 5171 Box 5819
+DPO AA 97799",Waterbury,CT,06091,Multi Family,5,4,1114,976021.66,Rented
+236,"9531 Zachary Landing Apt. 594
+Ruizville",Jersey City,NJ,08428,Single Family,3,1,4395,1590078.61,Pending
+237,"372 Sierra Stravenue Apt. 030
+West Andrewfort",Rochester,NY,13424,Single Family,1,2,817,1682818.11,Pending
+238,"93402 Russell Meadows Apt. 594
+Michelleport",New York,NY,14307,Single Family,4,3,1294,1983705.39,Pending
+239,"1587 Lynn Corners
+Ericfort",Jersey City,NJ,07056,Multi Family,3,4,2945,1203365.98,Rented
+240,"18403 Johnson Springs Apt. 740
+Martinview",Buffalo,NY,13557,Single Family,5,4,3857,1246668.81,Pending
+241,"648 Ricky Fort Apt. 043
+Wilsonchester",Newark,NJ,08400,Condo,3,3,3037,483769.27,Rented
+242,"Unit 8626 Box 4918
+DPO AE 16603",Rochester,NY,10467,Single Family,5,4,3327,1408288.61,Pending
+243,"0017 Thomas Drives Apt. 872
+Allenland",Syracuse,NY,13309,Multi Family,1,4,2523,653940.37,Rented
+244,"82036 Elizabeth Corner
+Williamsside",Jersey City,NJ,07898,Townhouse,3,4,4061,493298.75,Sold
+245,"693 Perez Port Suite 202
+Lake Coltonbury",Hartford,CT,06147,Townhouse,3,1,2831,1119899.85,Rented
+246,"231 Campbell Flat Apt. 123
+Danaberg",Buffalo,NY,14005,Single Family,2,2,2956,320380.81,Available
+247,"93287 Kenneth Land Apt. 106
+Zacharyhaven",Paterson,NJ,08641,Multi Family,2,3,4851,430744.51,Sold
+248,"0884 Acosta Spur Suite 837
+South Marissa",Buffalo,NY,10824,Multi Family,4,1,1093,588716.36,Sold
+249,"0567 Hunter Parks
+Port Timothy",Waterbury,CT,06201,Single Family,2,2,4383,1012726.65,Rented
+250,"784 James Islands Suite 971
+Cesartown",Hartford,CT,06229,Single Family,5,2,3464,957959.44,Rented
+251,"74763 Anderson Streets Apt. 580
+Julieborough",Jersey City,NJ,07832,Townhouse,4,2,849,528937.47,Pending
+252,"5234 Gonzales Flat
+North Jayburgh",Buffalo,NY,10595,Single Family,4,4,3060,954902.32,Available
+253,"99201 John Garden Apt. 994
+East Jimmy",Elizabeth,NJ,07138,Townhouse,4,2,1411,1751454.04,Sold
+254,"3038 Ryan Inlet
+East Jennifer",Edison,NJ,07998,Condo,3,1,2593,1288691.42,Pending
+255,"1603 Miller Creek
+Coxbury",Stamford,CT,06016,Single Family,5,2,1900,1752469.31,Rented
+256,"721 Tina Mill Apt. 294
+West Daniel",Paterson,NJ,08819,Condo,5,1,3919,958718.55,Rented
+257,"78213 Johnson Springs
+West Shannonport",Newark,NJ,08434,Multi Family,5,4,1168,623266.17,Rented
+258,"00358 Matthew Ramp Apt. 976
+South Nichole",Yonkers,NY,11989,Condo,3,4,2172,755910.29,Rented
+259,"89269 Thomas Prairie Apt. 692
+South Marcus",Paterson,NJ,07354,Townhouse,4,3,2447,1597190.31,Available
+260,"22183 Virginia Burg Apt. 622
+East Alexfurt",Yonkers,NY,12349,Multi Family,3,3,2911,744115.42,Available
+261,"022 Collins Cove
+Bradleymouth",New Haven,CT,06347,Multi Family,5,1,2720,1224251.28,Sold
+262,"193 Johnson Summit
+New Daniel",Rochester,NY,14388,Single Family,1,3,4823,895548.79,Sold
+263,"63296 Daniels Hollow Suite 783
+West Tonya",New York,NY,12179,Townhouse,2,1,4136,908275.95,Available
+264,"09689 Danielle Shore Apt. 614
+South Cory",New York,NY,11835,Townhouse,4,4,1824,903848.04,Available
+265,"184 Moore Brooks
+South Stephanie",Yonkers,NY,11214,Single Family,5,4,1149,1635591.95,Pending
+266,"7542 Duncan Flat Apt. 643
+New Christopherville",New Haven,CT,06058,Condo,3,1,1950,1630443.81,Sold
+267,"Unit 8572 Box 8113
+DPO AA 88028",Stamford,CT,06077,Townhouse,1,2,4246,1266019.22,Sold
+268,"4646 Samantha Brooks
+Stonehaven",Syracuse,NY,10352,Townhouse,5,3,4284,1256289.77,Rented
+269,"593 Snyder Gateway
+Youngborough",Paterson,NJ,08369,Multi Family,4,4,2800,1699685.67,Pending
+270,"02845 Pratt Divide
+Jacobbury",Jersey City,NJ,08964,Multi Family,3,3,1853,1068023.2,Pending
+271,"6936 Edward Lodge
+Collinsstad",Newark,NJ,08530,Single Family,4,3,1689,1266476.1,Rented
+272,"209 Walters Common Suite 507
+Lake Patrick",Newark,NJ,08497,Condo,1,3,2254,1083918.75,Rented
+273,"090 Felicia Falls
+West Kristine",Hartford,CT,06149,Multi Family,3,1,2587,1892345.16,Pending
+274,"2065 Gates Rest
+Parkermouth",Syracuse,NY,14580,Townhouse,1,1,1571,649812.52,Sold
+275,"Unit 7466 Box 9282
+DPO AA 32019",Paterson,NJ,07487,Townhouse,5,4,3088,1159802.18,Rented
+276,"652 Maldonado Spur
+Taylorhaven",Jersey City,NJ,08291,Townhouse,2,1,4689,1569363.49,Available
+277,"17371 Natalie Mission
+Port Holly",Syracuse,NY,10178,Single Family,2,2,1807,877425.69,Available
+278,"14573 Michelle Meadows
+New Gerald",Buffalo,NY,12744,Multi Family,4,2,1776,584919.26,Pending
+279,"801 Matthew Pine Apt. 305
+New Rachel",New Haven,CT,06275,Townhouse,4,4,1530,301831.05,Available
+280,"484 Jackson Camp
+West Dakotamouth",New Haven,CT,06225,Multi Family,3,2,1472,1891388.57,Sold
+281,"003 Amber Forks
+South Kristinaton",Bridgeport,CT,06097,Condo,5,4,4934,329845.03,Rented
+282,"096 Nina Street Suite 887
+South Kimberlymouth",Jersey City,NJ,08789,Multi Family,4,1,4323,205647.01,Rented
+283,"25228 Todd Plaza Apt. 231
+Port Amystad",Paterson,NJ,08632,Condo,3,1,2435,893971.31,Pending
+284,"009 Paul Forest Apt. 068
+East Joshuastad",Jersey City,NJ,08397,Townhouse,1,4,1185,1664320.18,Sold
+285,"00078 Peterson Isle
+Port Christian",New York,NY,12127,Townhouse,1,4,3062,205154.98,Sold
+286,PSC 5587,Elizabeth,NJ,08606,Townhouse,2,4,2661,1742178.24,Sold
+287,"4226 Michael Passage Apt. 149
+Lake Patriciaburgh",New York,NY,12125,Single Family,4,2,2752,1112250.33,Sold
+288,"827 Weber Ville Suite 573
+East Eric",Paterson,NJ,08695,Townhouse,5,1,2856,1050852.34,Sold
+289,"USNV Rodriguez
+FPO AP 10974",Buffalo,NY,14126,Condo,1,4,1332,578726.6,Available
+290,"68772 Thompson Ranch
+Wyattchester",Hartford,CT,06320,Multi Family,5,3,3203,689915.58,Sold
+291,"398 White Glen
+Morrowchester",Rochester,NY,14684,Single Family,1,3,1419,918600.78,Pending
+292,"87912 Sara Stream
+New Amandamouth",Paterson,NJ,08383,Condo,1,3,4257,745587.45,Rented
+293,"USNV Munoz
+FPO AA 51074",Buffalo,NY,11912,Townhouse,5,2,4211,1191581.73,Available
+294,"15465 Matthew Spring
+Port Jill",Jersey City,NJ,07744,Townhouse,3,3,1220,1845916.0,Pending
+295,"722 Ashley Avenue
+Cookville",Stamford,CT,06320,Condo,4,1,2072,1794401.05,Available
+296,"8445 Cynthia Path
+Lake Bethbury",Elizabeth,NJ,08898,Multi Family,1,1,4907,918050.11,Rented
+297,"80124 Martin Vista Suite 575
+Port Williamborough",Bridgeport,CT,06340,Townhouse,2,4,867,1743194.18,Pending
+298,"046 Timothy Corner
+Smithstad",Paterson,NJ,07036,Condo,4,2,1930,1127995.51,Available
+299,"1441 Philip Falls Suite 203
+East Sylviaton",New York,NY,13263,Condo,5,4,3694,165486.07,Pending
+300,"27137 Nancy Vista Suite 855
+New Brittany",Buffalo,NY,14684,Multi Family,5,4,4735,1437853.36,Rented
+301,"0309 Jones Expressway Suite 312
+Lake Michaelmouth",Edison,NJ,07771,Townhouse,4,3,4339,1546163.2,Pending
+302,"7344 Herrera Prairie Suite 647
+Lake Leechester",Waterbury,CT,06119,Single Family,5,2,4809,1169733.54,Sold
+303,"17709 Allen Crescent Apt. 639
+East Jessicashire",Waterbury,CT,06171,Multi Family,1,3,4254,1257121.74,Available
+304,"57626 John Curve
+Port Alexandra",Stamford,CT,06096,Condo,5,4,1517,710453.45,Pending
+305,"Unit 5048 Box 7843
+DPO AA 82978",Elizabeth,NJ,08140,Single Family,2,3,4958,708750.43,Rented
+306,"0950 Hayes Orchard
+North Michellestad",Jersey City,NJ,08676,Multi Family,4,2,3238,631339.89,Available
+307,"2478 Shannon Points Suite 353
+Lake John",Syracuse,NY,14219,Multi Family,3,3,1560,1279121.66,Pending
+308,"05866 Jessica Prairie
+New Jason",Rochester,NY,13413,Multi Family,5,3,4530,1658327.81,Pending
+309,"52786 Henry Summit Apt. 730
+Michelleview",Edison,NJ,08123,Single Family,3,1,1867,1877455.97,Available
+310,"9320 Nichole Wells
+Port David",Edison,NJ,07820,Single Family,3,3,4097,296083.44,Available
+311,"02690 Yvette Locks
+Joneshaven",Newark,NJ,07812,Condo,4,2,4756,1967905.92,Available
+312,"2597 Wood Courts
+South Bradleyville",Bridgeport,CT,06307,Condo,3,3,3419,305604.41,Sold
+313,"3213 Williams Ridge
+New Karenland",Buffalo,NY,12550,Condo,4,2,2437,198870.53,Sold
+314,"9892 Amanda Point
+East Mary",Hartford,CT,06313,Townhouse,4,4,2456,252017.47,Rented
+315,"6640 John Canyon
+East Ashley",New York,NY,13393,Multi Family,3,1,2885,742093.79,Sold
+316,"267 Fleming Rapid Apt. 780
+West Lisa",New Haven,CT,06093,Multi Family,3,2,4252,590571.74,Rented
+317,"67533 Williams Road Apt. 816
+Lake Cynthia",New Haven,CT,06192,Single Family,1,1,2924,1698950.54,Available
+318,"81687 Andre Keys Apt. 931
+New Garytown",Syracuse,NY,13623,Multi Family,2,3,1054,925729.15,Available
+319,"83710 Taylor Glen
+Nicoletown",Syracuse,NY,10936,Multi Family,1,1,1255,501963.15,Pending
+320,"2520 Megan Field Apt. 509
+Brownberg",Newark,NJ,08723,Multi Family,5,1,3419,299432.34,Available
+321,"22217 Joshua Drives Suite 311
+Gabrielleborough",Yonkers,NY,14863,Multi Family,5,2,3638,1154745.48,Rented
+322,"373 Jennifer Pass Suite 582
+Pamelachester",Jersey City,NJ,07870,Condo,4,4,4855,1809684.9,Rented
+323,PSC 8035,Elizabeth,NJ,08405,Single Family,1,2,2055,411048.76,Available
+324,"45959 Atkins Junctions
+Charleston",New York,NY,12964,Condo,1,4,839,852570.09,Pending
+325,"4856 Johnson Island Suite 065
+New Christopher",Jersey City,NJ,07084,Multi Family,3,1,3958,341752.51,Pending
+326,"77842 Brian View
+East Chadfurt",Jersey City,NJ,07096,Single Family,1,4,2404,486307.18,Available
+327,"13788 Griffith Plains
+Scottport",Bridgeport,CT,06145,Condo,5,2,2296,158910.68,Rented
+328,"3493 Baker Mills
+Lake Connie",Newark,NJ,08833,Condo,3,4,2992,1614614.54,Available
+329,PSC 2702,Rochester,NY,14552,Multi Family,5,4,4600,1465985.4,Available
+330,"513 Catherine Keys
+Port Robert",Waterbury,CT,06336,Condo,4,1,3666,1064899.49,Rented
+331,"465 Daniel Harbors Suite 275
+Port Annafort",Elizabeth,NJ,08329,Townhouse,3,2,4725,1319636.96,Pending
+332,"401 Malone Squares
+East Michaelmouth",Elizabeth,NJ,07730,Single Family,2,1,1008,1552196.97,Sold
+333,"13377 Kim Loop Suite 908
+Jamestown",Edison,NJ,07820,Single Family,2,3,2131,1741090.86,Available
+334,"97475 Davila Dam Suite 069
+West Melissaborough",Syracuse,NY,14075,Single Family,1,1,4028,608489.63,Rented
+335,"50997 Ashley Garden
+Mooneymouth",Jersey City,NJ,08922,Condo,3,2,1526,122500.11,Rented
+336,"240 Griffin Burg Suite 200
+Lake Amber",Yonkers,NY,14651,Townhouse,2,1,2175,1099220.3,Available
+337,"Unit 9485 Box 9326
+DPO AP 96450",Yonkers,NY,12410,Condo,1,2,4709,404232.83,Pending
+338,"8842 Michelle Mill Suite 817
+Brendaland",New Haven,CT,06104,Townhouse,1,3,3679,1936619.93,Rented
+339,"1591 Caldwell Green Apt. 579
+North Timothy",Bridgeport,CT,06013,Single Family,1,3,4461,1029347.82,Rented
+340,"850 Matthew Oval
+Frankton",Rochester,NY,12529,Multi Family,3,2,4455,489189.46,Available
+341,"6289 Greene Spur
+Butlerbury",New Haven,CT,06035,Single Family,5,4,3949,120402.79,Pending
+342,"763 Clark Oval
+Watkinstown",Yonkers,NY,12376,Multi Family,4,4,3200,921553.59,Rented
+343,"29546 James Crossroad
+West Dustinton",Syracuse,NY,14370,Condo,4,1,3642,1295980.23,Sold
+344,"7262 Gregory Trail
+Livingstonmouth",New Haven,CT,06350,Townhouse,4,1,2188,698121.07,Pending
+345,"4409 Powers Branch Apt. 977
+Port Jamieborough",New Haven,CT,06150,Condo,1,1,3355,1293469.42,Pending
+346,"5370 Hernandez Isle Apt. 622
+North Jesseberg",Waterbury,CT,06360,Condo,3,1,2433,299473.98,Available
+347,"95668 Kennedy Causeway
+Port Matthew",New York,NY,14082,Condo,4,1,3343,699758.48,Sold
+348,PSC 1196,Edison,NJ,07503,Single Family,3,4,4661,1974110.97,Available
+349,"50831 Carter Plaza
+Brittanytown",Paterson,NJ,07318,Townhouse,4,2,2962,1830273.85,Pending
+350,"93974 Smith Junction Suite 640
+Catherineside",Buffalo,NY,11358,Multi Family,3,4,1279,787706.85,Rented
+351,"4825 Michael Hollow
+Gabriellastad",Rochester,NY,14351,Condo,4,3,3040,1671414.88,Available
+352,"72285 Patrick Tunnel
+Lake Antonioton",Waterbury,CT,06127,Townhouse,2,3,3276,1282690.01,Pending
+353,"875 Brian Canyon Suite 212
+South Michaelborough",Waterbury,CT,06097,Single Family,4,3,1328,1536884.99,Available
+354,"818 Brown Loaf
+Jenniferside",Syracuse,NY,11076,Single Family,2,2,4746,343848.43,Pending
+355,"412 Hamilton Coves Suite 462
+Davidport",Paterson,NJ,07064,Condo,4,3,2400,732620.35,Rented
+356,"5982 Edwin Turnpike Suite 935
+East Jessicamouth",Edison,NJ,08765,Townhouse,1,4,4246,1449247.96,Pending
+357,"959 Esparza Row
+Kevinmouth",Rochester,NY,11882,Townhouse,1,2,4765,1627429.12,Rented
+358,"247 Ashley Viaduct Apt. 531
+Meganland",Hartford,CT,06094,Townhouse,1,4,3944,793281.74,Pending
+359,"71539 Hunter Road
+East Matthew",Elizabeth,NJ,08678,Condo,4,3,3076,628290.94,Available
+360,"0401 Tracey Throughway Apt. 157
+Juliefurt",Rochester,NY,13748,Condo,5,4,2824,273835.9,Sold
+361,"017 Tracy Gateway
+Masonburgh",Yonkers,NY,14714,Multi Family,2,2,4430,753286.34,Sold
+362,"3373 White Freeway Suite 463
+New Heatherland",Jersey City,NJ,08215,Single Family,1,4,3316,1369152.25,Pending
+363,"198 Melissa Union
+Katherineburgh",Yonkers,NY,11022,Condo,1,4,1254,1860948.55,Pending
+364,"410 Erica Flat
+North Anthonyland",Jersey City,NJ,08634,Condo,3,4,1688,1500797.24,Rented
+365,"741 Joseph Cliff
+Kristenmouth",Waterbury,CT,06187,Single Family,2,2,3582,1291179.25,Pending
+366,"8828 Baker Land Apt. 348
+Lake Gregorybury",Rochester,NY,11428,Multi Family,2,4,1925,1995724.96,Pending
+367,"7531 Burton Causeway
+Munozmouth",Buffalo,NY,14849,Multi Family,4,4,3504,1447838.9,Available
+368,"6197 Fleming Coves Apt. 712
+Melissastad",Buffalo,NY,13381,Townhouse,4,3,1226,1559657.32,Sold
+369,"7757 Jeffrey Drive Suite 933
+Kramerberg",Buffalo,NY,10382,Condo,5,4,1987,633912.37,Rented
+370,"7563 Elizabeth Cliffs
+Port Erikland",Jersey City,NJ,08036,Multi Family,1,3,3915,189648.97,Sold
+371,"94978 Paige Forest
+Whitneychester",New Haven,CT,06379,Single Family,2,1,3397,665822.34,Sold
+372,"682 Woods Knolls
+Reynoldsmouth",Hartford,CT,06338,Condo,4,4,3281,1953384.65,Sold
+373,"3093 Boyd Alley Suite 622
+Millermouth",Bridgeport,CT,06335,Condo,4,3,2433,297028.47,Available
+374,"95697 Taylor Flats Apt. 388
+Victorialand",Hartford,CT,06385,Townhouse,2,4,2521,1958175.82,Available
+375,PSC 1017,Waterbury,CT,06388,Single Family,2,3,3539,880157.48,Rented
+376,"18571 Brooks View Suite 017
+East Kellyfurt",Rochester,NY,11070,Condo,4,2,1674,1087059.29,Sold
+377,"551 Patterson Cliff
+Franklinton",Hartford,CT,06006,Townhouse,5,1,2494,218505.28,Rented
+378,"470 Kimberly Street
+Lake Kimberlychester",Stamford,CT,06340,Condo,4,4,966,946222.57,Pending
+379,"27098 Mills Row
+Owensshire",Bridgeport,CT,06006,Multi Family,5,2,4240,1987752.13,Pending
+380,"9233 Morris Station Apt. 456
+South Josefurt",Newark,NJ,07189,Multi Family,2,4,2786,1228024.61,Sold
+381,"789 Erin Viaduct Apt. 925
+North Davidtown",Stamford,CT,06124,Condo,5,1,4331,490511.33,Pending
+382,"2209 Shannon Stream
+Heathermouth",Jersey City,NJ,08048,Single Family,5,1,1781,382755.46,Sold
+383,"727 Emily Roads Apt. 825
+West Donnafort",Waterbury,CT,06036,Single Family,4,3,2479,1330587.07,Available
+384,"37536 Jefferson Trafficway
+Arthurstad",Paterson,NJ,07669,Townhouse,5,4,4187,1514667.27,Rented
+385,"43372 Rebecca Plain Suite 890
+New Pamelaborough",Elizabeth,NJ,07381,Multi Family,5,2,1620,1814695.11,Rented
+386,"201 Hernandez Trafficway
+Lake Randyland",New York,NY,12506,Condo,3,3,4372,1176329.02,Sold
+387,"Unit 7382 Box 2362
+DPO AA 92122",Stamford,CT,06003,Multi Family,2,1,4390,831309.28,Rented
+388,"311 Gary Squares
+North Kaitlynmouth",Edison,NJ,08523,Townhouse,1,4,3146,518029.72,Pending
+389,"5601 Thomas Highway Apt. 169
+Lake Nicholasfurt",Edison,NJ,07115,Multi Family,3,1,3143,109752.98,Pending
+390,"2682 Nelson Loop
+East Daniellehaven",Newark,NJ,07276,Single Family,2,1,4133,312095.31,Pending
+391,"4841 Collins Fork Suite 923
+Lake Jodiburgh",Yonkers,NY,13454,Single Family,5,3,1907,1510266.6,Sold
+392,"8946 Lauren Ridge Suite 376
+Randybury",Stamford,CT,06112,Single Family,4,1,841,1884718.43,Available
+393,"86543 Gallagher Lakes
+Hillbury",New Haven,CT,06377,Condo,5,3,4843,770006.57,Available
+394,"35824 Abbott Station
+Seanville",Rochester,NY,14845,Condo,3,1,2086,1609836.69,Sold
+395,"63859 Mcbride Burg
+East Sheri",Jersey City,NJ,07747,Multi Family,3,1,3205,645187.8,Available
+396,"96894 Keith Wall
+Emilystad",New York,NY,12516,Townhouse,2,3,4304,265934.98,Rented
+397,"819 Banks Shores
+East Krista",Bridgeport,CT,06290,Condo,1,4,2427,917406.81,Sold
+398,"51156 Cantrell Ranch
+Harrisport",Syracuse,NY,12623,Single Family,3,4,3713,1865207.83,Available
+399,"456 Garrison Dam
+Cherylfort",Yonkers,NY,13070,Single Family,4,3,3378,1838377.64,Pending
+400,"2807 Simpson Knolls
+New Morgantown",Buffalo,NY,14427,Condo,3,2,3271,826867.5,Available
+401,"68871 Melinda Burg
+East Anna",New Haven,CT,06173,Townhouse,5,4,2189,1465507.14,Available
+402,"05546 Amy Place
+West Melissa",Rochester,NY,13747,Multi Family,3,3,2278,1647925.93,Sold
+403,"4834 Hannah Haven
+Gaineshaven",Edison,NJ,07454,Multi Family,1,2,1541,843152.8,Pending
+404,"5182 Tanya Hills Suite 858
+Lake Michael",Waterbury,CT,06298,Townhouse,3,4,1127,1037467.43,Rented
+405,"62673 Melissa Fall
+Port Meganport",Elizabeth,NJ,07049,Condo,4,3,1315,1479803.74,Rented
+406,"76174 Deborah Ferry Apt. 968
+East Deborah",Bridgeport,CT,06181,Condo,4,3,1611,1229740.27,Pending
+407,"9088 Foster Centers Apt. 076
+West Whitney",Bridgeport,CT,06192,Condo,1,1,1303,1530571.73,Sold
+408,"363 Kyle Circles
+Staffordborough",Edison,NJ,08632,Multi Family,1,1,2788,960531.11,Available
+409,"59087 Anthony Crossing
+South Nancyport",Yonkers,NY,12552,Single Family,2,2,2258,147993.65,Sold
+410,"USS Lamb
+FPO AE 51073",Newark,NJ,07099,Townhouse,1,3,3226,132307.02,Pending
+411,"16356 Becky Curve Suite 291
+Pittmanburgh",New Haven,CT,06040,Condo,5,2,3509,330631.79,Pending
+412,"701 Decker Burg Suite 392
+Millerfort",Waterbury,CT,06199,Townhouse,4,1,4693,1503130.86,Rented
+413,"0897 Wu Neck Apt. 405
+Thompsonborough",Bridgeport,CT,06314,Single Family,5,1,4659,381135.08,Pending
+414,"7575 Maria Junction
+Lake Connorfurt",Elizabeth,NJ,08048,Single Family,1,2,1581,1552163.02,Rented
+415,"752 Susan Green
+Stanleyton",New Haven,CT,06263,Townhouse,1,3,2583,1973754.91,Pending
+416,"41852 Parsons Key
+South Shawnachester",Edison,NJ,07779,Townhouse,4,3,4661,1896819.61,Rented
+417,"654 Marcus Corners Suite 119
+Anthonyton",Elizabeth,NJ,07740,Single Family,1,3,3315,1984265.96,Available
+418,"951 Morrison Trail
+Schultzmouth",Syracuse,NY,10854,Multi Family,1,1,3975,1341510.45,Available
+419,"84910 Jones Stravenue Apt. 809
+Jennahaven",Elizabeth,NJ,08964,Townhouse,1,2,3287,275495.41,Rented
+420,"700 Vanessa Lights Apt. 316
+New Michaelfurt",Bridgeport,CT,06022,Townhouse,1,2,2896,1179964.4,Sold
+421,"678 Emma Coves
+South Caleb",Edison,NJ,07922,Multi Family,5,2,3328,107915.31,Sold
+422,"029 Robert Camp
+Chavezfort",Jersey City,NJ,08700,Condo,1,4,2080,1141959.96,Rented
+423,"033 Monroe Forge Suite 820
+Andersonshire",Waterbury,CT,06195,Single Family,5,4,2858,631150.23,Pending
+424,"67880 Le Glens
+Burnsview",Buffalo,NY,10287,Multi Family,5,2,849,1266371.39,Rented
+425,"0374 Gonzales Locks
+Amyberg",Yonkers,NY,10874,Single Family,1,2,1633,258859.19,Sold
+426,"8988 Timothy Course Apt. 373
+Andersonfurt",Stamford,CT,06014,Townhouse,2,4,1793,1535666.19,Rented
+427,"42704 Brady Mills Apt. 360
+Reyesland",New York,NY,11406,Townhouse,5,3,4468,932342.58,Available
+428,"69393 Herrera Flat
+Markshire",Buffalo,NY,13222,Townhouse,2,2,2995,1111222.01,Rented
+429,"514 Sheri Points
+North Maryton",New York,NY,13852,Townhouse,2,4,4290,1730388.64,Pending
+430,"43647 Jennifer Locks Suite 949
+South Joseph",Paterson,NJ,08315,Multi Family,3,4,4448,409376.8,Available
+431,"7986 Bullock Causeway
+Krystalberg",Newark,NJ,07524,Single Family,4,3,2231,1954043.36,Rented
+432,"2105 Barry Key
+Port Erin",New York,NY,13720,Multi Family,4,2,3621,806106.16,Pending
+433,"4761 Weiss Stravenue
+Robinsonburgh",Elizabeth,NJ,07908,Townhouse,5,2,3065,1373940.09,Sold
+434,"0070 Cole Center
+South Stephaniemouth",Yonkers,NY,13635,Multi Family,4,2,2861,1518729.06,Rented
+435,"50804 Wesley Burgs
+West Jamesberg",Yonkers,NY,11596,Multi Family,5,4,4310,1573243.66,Sold
+436,"0597 Franklin Brooks
+Lake Paul",New Haven,CT,06127,Multi Family,4,1,2563,1176447.87,Pending
+437,PSC 0200,Elizabeth,NJ,07404,Condo,1,1,2394,610276.21,Available
+438,"279 Lisa Pines
+New Heatherbury",Newark,NJ,07366,Townhouse,3,3,4301,1691266.95,Pending
+439,"58655 Jones Centers Apt. 268
+West Joseph",Waterbury,CT,06305,Townhouse,3,3,1198,1454504.29,Pending
+440,"06048 Michael Vista Apt. 360
+Jamiefort",Yonkers,NY,12241,Townhouse,2,3,1163,1835493.57,Available
+441,"927 Neal Prairie
+West Markborough",Bridgeport,CT,06224,Multi Family,3,1,1194,1043944.82,Pending
+442,"00759 Brennan Station
+Susanburgh",Paterson,NJ,08633,Multi Family,2,3,2406,1733451.46,Pending
+443,"7725 Myers Wall Suite 300
+Kyleville",Waterbury,CT,06272,Single Family,1,4,1167,164444.14,Sold
+444,"7397 Morris Stream
+Phillipsside",Syracuse,NY,11118,Townhouse,2,1,1129,1615413.18,Sold
+445,"38704 Kathleen Knoll Suite 137
+Steventon",Yonkers,NY,12371,Condo,4,4,1379,1647259.53,Pending
+446,PSC 7651,Jersey City,NJ,07613,Multi Family,5,2,3196,565850.39,Rented
+447,"41498 Kelsey Trace Suite 214
+Jeffreymouth",Jersey City,NJ,07307,Townhouse,5,4,4400,1446516.52,Rented
+448,"66578 James Crossing
+Lake Ronaldshire",Syracuse,NY,10559,Single Family,5,4,4851,1252660.67,Sold
+449,"05399 Shawn Land Suite 036
+West Michael",Edison,NJ,08827,Condo,1,4,4312,997688.75,Pending
+450,"90914 Hayes Isle
+Lake Brandi",Rochester,NY,10160,Multi Family,1,3,3424,238982.59,Rented
+451,"0591 Holden Mountains Suite 473
+West Ericfurt",Stamford,CT,06053,Townhouse,3,2,815,117629.85,Sold
+452,"71657 Reyes Islands Suite 233
+Ronaldhaven",Hartford,CT,06084,Condo,3,4,1670,931036.37,Sold
+453,"269 Donna Manor Suite 936
+Wagnermouth",Stamford,CT,06340,Townhouse,5,4,4495,273166.73,Available
+454,"5976 Alicia Walks
+Lamberthaven",New York,NY,10307,Townhouse,3,2,1658,411542.47,Rented
+455,"37842 Wolf Orchard Suite 459
+New Kristin",Bridgeport,CT,06073,Townhouse,4,3,4879,188115.22,Pending
+456,"USNS Singleton
+FPO AE 33298",Edison,NJ,07413,Single Family,5,1,1676,1527861.55,Available
+457,"USCGC Zimmerman
+FPO AE 06226",Rochester,NY,13705,Single Family,4,1,1257,567378.66,Available
+458,"814 Kidd Groves
+Lake Maria",New Haven,CT,06341,Multi Family,4,1,4266,1597104.4,Sold
+459,"4122 Patricia Shoals
+East Mariamouth",Syracuse,NY,10322,Single Family,4,2,1959,1072038.89,Rented
+460,"8974 Velez Courts Apt. 744
+Lake Max",Bridgeport,CT,06135,Condo,5,1,1513,1645905.28,Rented
+461,PSC 6855,Syracuse,NY,11537,Townhouse,5,1,3807,415383.6,Available
+462,"6191 Mendoza Place
+Proctorhaven",Jersey City,NJ,07780,Multi Family,5,4,1422,1526279.3,Rented
+463,"491 Mary Mews
+Donaldtown",Jersey City,NJ,08380,Townhouse,1,3,1130,1501665.32,Sold
+464,"43501 Joseph Square Suite 727
+Peckchester",New Haven,CT,06251,Multi Family,3,4,2264,528289.43,Pending
+465,"098 Shaffer Isle Apt. 412
+Normanside",Newark,NJ,08336,Multi Family,3,1,4366,699295.88,Pending
+466,"30360 Tracy Common
+New James",Edison,NJ,08985,Single Family,1,1,1205,834880.33,Sold
+467,"USNV Russo
+FPO AE 87829",Newark,NJ,08943,Townhouse,2,4,1483,764432.65,Pending
+468,"8057 Michael Highway
+East Lori",Stamford,CT,06222,Multi Family,2,2,2413,741363.08,Pending
+469,"USCGC Marquez
+FPO AE 84947",Syracuse,NY,13367,Condo,1,2,3467,450471.77,Pending
+470,"972 Robinson Knolls Apt. 312
+Millerchester",Rochester,NY,14664,Single Family,2,4,1100,1358907.72,Sold
+471,"72741 Mcclain Parks Apt. 040
+South Jamesland",Rochester,NY,10525,Condo,3,1,4047,443522.76,Sold
+472,"59420 Jenkins Street Apt. 324
+Amandamouth",Paterson,NJ,07636,Condo,3,2,1848,1998098.65,Available
+473,"19142 Frank Plains Suite 577
+Blankenshipview",New York,NY,14252,Single Family,1,1,2657,429543.66,Available
+474,"8470 Michelle Brooks
+Johnsonstad",Waterbury,CT,06275,Condo,1,1,2861,355585.28,Sold
+475,"535 Margaret Mount
+Lake Sarahfort",Edison,NJ,08024,Multi Family,2,2,3689,671206.74,Sold
+476,"58740 Goodwin Fort
+Cohenshire",Bridgeport,CT,06317,Single Family,3,2,1432,630372.21,Available
+477,"0951 Nunez Track
+Kaitlinfurt",Hartford,CT,06312,Townhouse,5,3,4820,227752.15,Pending
+478,"920 Andrea Street Suite 810
+Lake Aliciamouth",Jersey City,NJ,08410,Condo,1,2,1967,1366738.9,Sold
+479,"3312 Zachary Mews Apt. 545
+North Adam",Paterson,NJ,08951,Condo,2,1,4971,1170937.29,Sold
+480,"607 Sean Mews Suite 266
+Torresbury",Rochester,NY,12333,Townhouse,5,2,4676,1916690.84,Sold
+481,"720 Gregory Corners Suite 874
+Cooleymouth",Hartford,CT,06242,Condo,4,1,3838,432590.27,Pending
+482,"58532 Dunn Route
+Anthonymouth",Buffalo,NY,11616,Single Family,2,3,961,1336398.8,Rented
+483,"38969 Norman Garden
+West Erinton",Bridgeport,CT,06047,Condo,3,3,4979,467338.77,Available
+484,"4749 Moore Junction
+New Ginaside",New York,NY,11387,Townhouse,5,2,4401,1292312.65,Sold
+485,"920 Owens Wall
+South Christine",Edison,NJ,08068,Single Family,5,1,2025,1099376.04,Pending
+486,"91499 Ernest Skyway
+Torresbury",New Haven,CT,06177,Multi Family,5,4,2571,1045423.72,Sold
+487,"5634 Beth Camp
+Douglasshire",Elizabeth,NJ,08609,Townhouse,1,1,3143,1571967.33,Pending
+488,"131 Parker Walk
+Tracymouth",New Haven,CT,06054,Single Family,1,2,2913,567138.83,Available
+489,"164 Curry Ville Apt. 967
+Lake Courtney",Stamford,CT,06198,Multi Family,1,1,3906,273195.35,Rented
+490,"08204 Blevins Springs Suite 892
+Nicholasshire",Edison,NJ,08522,Multi Family,4,3,2670,1584400.55,Pending
+491,"7267 Dixon Lights
+Diazborough",Bridgeport,CT,06344,Townhouse,2,3,4003,633745.86,Available
+492,"03146 Elizabeth Flat
+Lake Randytown",Stamford,CT,06287,Multi Family,4,4,4674,1516829.71,Sold
+493,"29039 Carmen Ridges
+Port Jenniferburgh",New York,NY,12113,Single Family,1,4,3292,1155920.91,Available
+494,"82961 Fitzgerald Crossroad
+Davidbury",Bridgeport,CT,06218,Single Family,3,4,2640,842295.27,Rented
+495,"USS Ayers
+FPO AA 95776",Edison,NJ,08591,Townhouse,5,4,4264,1428598.36,Rented
+496,"5208 Justin Points Suite 363
+Jacksonburgh",New York,NY,14288,Single Family,5,3,2847,964694.09,Sold
+497,"2897 Tanya Row Apt. 539
+Port Christopher",Stamford,CT,06062,Townhouse,3,4,1576,789691.09,Available
+498,"4421 Zachary Squares Suite 788
+Castillomouth",Stamford,CT,06319,Condo,1,3,2984,584684.0,Pending
+499,PSC 8216,Edison,NJ,08000,Multi Family,3,2,1662,373877.87,Pending
+500,"05764 Sierra Villages Apt. 590
+West Nicholasport",Rochester,NY,13448,Multi Family,3,2,3578,191801.5,Sold
+501,"6482 Brian Street
+Williamville",Waterbury,CT,06129,Multi Family,4,1,1144,289932.68,Rented
+502,"223 Rebecca Tunnel
+Kristenmouth",Rochester,NY,12623,Condo,4,3,3611,1426588.74,Sold
+503,"80445 Smith Drive
+Lake Keith",New Haven,CT,06020,Condo,2,2,2363,1260271.16,Available
+504,"1434 Beltran Skyway Suite 246
+Joshuachester",Edison,NJ,07755,Single Family,2,4,1525,938685.66,Rented
+505,"3747 Hughes Pike
+Brownville",Syracuse,NY,13200,Townhouse,1,3,3877,1710383.45,Sold
+506,"032 Woods Ways
+Nelsonbury",Waterbury,CT,06253,Single Family,3,1,2299,1313827.41,Sold
+507,"2716 Vega River
+Katherinehaven",Hartford,CT,06137,Multi Family,2,1,3851,239684.52,Rented
+508,"563 Gabriella Knolls Apt. 312
+Tuckerbury",Edison,NJ,08170,Multi Family,4,1,3355,392427.74,Sold
+509,"16787 Rogers Inlet
+West Ericmouth",Hartford,CT,06253,Condo,1,1,3312,1318646.84,Pending
+510,"176 Wagner Plains
+Carlafurt",Jersey City,NJ,07013,Townhouse,3,4,4312,1821944.33,Available
+511,"420 Heather Orchard Apt. 731
+Kingtown",Paterson,NJ,08341,Single Family,2,2,2026,940555.6,Rented
+512,"328 Foster Path Apt. 679
+Port Ericfurt",New York,NY,11665,Townhouse,3,1,4847,998644.57,Available
+513,PSC 6928,New York,NY,12012,Townhouse,4,2,4584,920744.47,Available
+514,"53195 Hines Coves
+South Amanda",Newark,NJ,08328,Townhouse,3,3,2810,1745703.22,Rented
+515,"660 Ross Brooks
+Denisebury",Rochester,NY,13285,Multi Family,1,1,3865,151443.97,Rented
+516,"214 Terry Rest Apt. 220
+Herreraberg",Stamford,CT,06120,Multi Family,5,1,3480,1790734.84,Rented
+517,"7084 Charles Lake Suite 673
+Karenton",Newark,NJ,08620,Multi Family,3,2,936,1882299.69,Pending
+518,"6460 Williams Highway Apt. 603
+Brendaberg",Waterbury,CT,06226,Townhouse,3,2,1978,1038267.87,Available
+519,"2861 Green Locks Suite 993
+New Alexandermouth",Edison,NJ,08591,Multi Family,2,2,4428,590683.0,Sold
+520,"4491 Tran Squares Suite 047
+Heidihaven",Yonkers,NY,11967,Condo,3,3,2611,1871558.11,Available
+521,"302 Joshua Turnpike
+Port Karenland",New York,NY,10285,Townhouse,2,3,2996,594226.29,Pending
+522,"367 Green Drive
+Bryanmouth",Edison,NJ,08823,Multi Family,2,2,1384,742896.58,Rented
+523,"214 Tyler Lodge Apt. 931
+Colemanside",Yonkers,NY,14684,Single Family,5,1,1234,1111567.96,Rented
+524,"13473 Shields Harbors Apt. 198
+Johnsonstad",Stamford,CT,06244,Single Family,5,2,2427,608008.75,Rented
+525,"10299 Fields Gateway Apt. 035
+West Alexanderport",Elizabeth,NJ,07138,Townhouse,4,4,1109,1071406.82,Available
+526,"6617 Karen Union
+New Renee",Jersey City,NJ,08473,Townhouse,5,2,2028,329879.0,Rented
+527,"274 Gardner Ports Apt. 776
+Port Michelefort",Syracuse,NY,13415,Townhouse,2,3,2831,1755493.29,Rented
+528,"0585 Tyrone Wells
+Robertfurt",Hartford,CT,06190,Condo,5,4,2669,208835.44,Rented
+529,"5331 Williams Rue Apt. 210
+Tylerton",Newark,NJ,08684,Condo,5,2,3823,773005.77,Pending
+530,"Unit 3219 Box 5632
+DPO AE 22472",Hartford,CT,06314,Multi Family,2,1,1310,1813439.4,Sold
+531,"705 James Mount
+South Bryan",Syracuse,NY,13552,Single Family,3,2,1203,1958015.65,Rented
+532,"8904 John Tunnel Apt. 351
+Whitetown",Jersey City,NJ,08769,Townhouse,2,3,1674,632412.12,Pending
+533,"11134 Hayes Valleys Apt. 007
+Laurenchester",Syracuse,NY,13178,Single Family,2,3,4016,1623227.28,Sold
+534,"24042 Scott Manors Suite 485
+Fuentesmouth",Edison,NJ,07592,Multi Family,4,1,3731,1254786.72,Sold
+535,"81682 Hayes Green Apt. 321
+Daniellebury",Rochester,NY,14854,Condo,3,3,1736,1915635.08,Pending
+536,"902 Jessica Isle
+West Anthony",Syracuse,NY,10126,Single Family,3,4,4976,340846.84,Available
+537,PSC 7222,Paterson,NJ,07125,Multi Family,1,3,2931,710438.74,Rented
+538,"8691 Craig Views
+Johnsonfurt",Buffalo,NY,13616,Townhouse,2,2,1455,1241508.2,Available
+539,"496 Carol Spurs Suite 330
+Lake Elizabethborough",Paterson,NJ,08295,Multi Family,3,3,4819,1900508.96,Rented
+540,"15005 David Ports Apt. 818
+East Tanyaside",Stamford,CT,06138,Multi Family,3,4,1504,1190840.41,Rented
+541,PSC 0894,Jersey City,NJ,08952,Single Family,1,4,3987,272577.13,Rented
+542,"952 Page Ville
+South Karenburgh",Syracuse,NY,12558,Townhouse,1,1,1019,1349155.87,Rented
+543,"653 April Prairie Suite 668
+Lake Daniel",Rochester,NY,11687,Condo,5,4,1254,1466452.2,Sold
+544,"21191 Joshua View
+Joberg",Rochester,NY,12155,Condo,3,3,3787,1169118.85,Available
+545,"USNS Randolph
+FPO AP 55187",Stamford,CT,06135,Multi Family,3,1,3861,488529.97,Sold
+546,"9308 Robin Pass
+Josephshire",Edison,NJ,08475,Condo,2,2,4194,1814468.31,Pending
+547,"6388 Calhoun Ways
+North Eugene",Yonkers,NY,10438,Townhouse,1,4,3818,1592119.71,Pending
+548,"659 Walker Center
+Lake Gary",Edison,NJ,08501,Single Family,5,4,2900,1547990.83,Sold
+549,"95637 Coleman Cape Suite 896
+Lake John",Stamford,CT,06181,Multi Family,5,2,3205,519350.5,Rented
+550,"37951 Burns Place Suite 306
+West Ryan",Bridgeport,CT,06116,Townhouse,5,2,1796,1165781.65,Available
+551,PSC 2354,Waterbury,CT,06174,Single Family,4,3,2793,1919002.35,Rented
+552,"76005 Guzman Circles Suite 901
+Josephtown",Syracuse,NY,10815,Townhouse,2,4,3483,1670884.05,Available
+553,"7816 Jill Streets Apt. 584
+Youngside",Newark,NJ,07178,Townhouse,4,2,852,1353119.02,Rented
+554,"4209 Lawrence Plaza Suite 368
+Clarkhaven",Stamford,CT,06002,Multi Family,2,2,3499,1201998.81,Pending
+555,"83418 Jacob Meadow
+West Sheriburgh",Rochester,NY,10606,Multi Family,5,2,807,111720.41,Available
+556,"4579 William Shoal
+North Natashaside",Syracuse,NY,10182,Condo,3,2,1493,1577384.11,Pending
+557,"111 Megan Vista Suite 274
+West Markfort",Syracuse,NY,11803,Single Family,3,2,4176,1535911.9,Sold
+558,"1621 Anderson Parkways
+Millerside",Waterbury,CT,06263,Multi Family,5,3,2249,1594486.83,Rented
+559,"02451 Alicia Spring Suite 194
+Alexandriaborough",Buffalo,NY,13240,Townhouse,1,3,4199,1460279.36,Available
+560,"4126 Katrina Harbors
+Samuelborough",Elizabeth,NJ,08165,Condo,5,3,4987,276254.27,Available
+561,"61653 Aaron Summit
+Aaronmouth",Paterson,NJ,07662,Townhouse,3,1,4464,309580.4,Sold
+562,"86202 Misty Loop Apt. 087
+North Keith",Buffalo,NY,11599,Multi Family,4,4,4231,334574.27,Sold
+563,"28716 Brown Curve Suite 055
+Gayshire",New York,NY,10805,Multi Family,2,3,2978,1509678.44,Rented
+564,"USNV Brown
+FPO AE 45813",New York,NY,14285,Single Family,5,1,3196,803421.91,Rented
+565,"589 Steven Island Apt. 057
+Lake Sarahberg",Newark,NJ,07814,Single Family,2,1,1762,654340.47,Sold
+566,"1225 Rowe Forges Suite 910
+Hayesborough",Stamford,CT,06181,Townhouse,5,4,3261,1390392.92,Available
+567,"3916 Kenneth Viaduct
+Ramirezshire",Waterbury,CT,06018,Multi Family,3,1,1637,1399517.49,Rented
+568,"7225 Turner Garden
+New Tina",Elizabeth,NJ,07178,Single Family,3,2,2235,1882582.9,Available
+569,"47723 Kristina Ports Apt. 725
+New Brianton",Newark,NJ,08357,Condo,5,2,1153,386170.73,Available
+570,"9268 Henry Drive Suite 816
+North Austin",Hartford,CT,06279,Condo,2,1,3184,1486975.1,Available
+571,"625 William Locks
+Port Matthew",Yonkers,NY,10937,Townhouse,3,4,2713,259356.92,Available
+572,"8385 Huff Cape
+West Beth",Elizabeth,NJ,07110,Multi Family,4,2,4058,277179.59,Available
+573,"806 Joseph Forks Apt. 212
+Shanehaven",New York,NY,12593,Townhouse,1,2,3749,902482.02,Rented
+574,"0207 Jason Junction Apt. 994
+Port Brian",Rochester,NY,13982,Single Family,5,3,4911,1154492.06,Pending
+575,"7581 Andrea Springs
+Port Timothy",New Haven,CT,06146,Townhouse,3,1,4691,846188.28,Pending
+576,"32106 Cassandra Junction Suite 399
+West Adamhaven",Jersey City,NJ,07428,Single Family,4,2,2384,248271.37,Sold
+577,PSC 4834,New York,NY,14324,Townhouse,3,1,4606,1395646.73,Rented
+578,"058 Boyd Orchard Suite 016
+South Brianview",New York,NY,13424,Condo,5,3,3704,327935.15,Available
+579,"1766 David Expressway Apt. 731
+Jeremymouth",Edison,NJ,08571,Single Family,2,1,999,1679308.24,Pending
+580,"Unit 5709 Box 5323
+DPO AP 17175",Newark,NJ,07768,Condo,3,1,937,610269.86,Available
+581,"6677 Holmes Green
+East Ian",Edison,NJ,07646,Condo,1,3,3320,1937435.2,Sold
+582,"17836 Mcintyre Isle Apt. 642
+Jamiechester",Edison,NJ,08590,Single Family,5,4,4660,204504.85,Pending
+583,"364 Munoz Viaduct Apt. 996
+West Pamelaport",Waterbury,CT,06175,Multi Family,5,2,969,908369.03,Sold
+584,"539 Cruz Springs
+Melissaland",Rochester,NY,13397,Townhouse,5,3,2784,1949929.18,Sold
+585,"46369 Melissa Drives Suite 366
+Lake Donaldshire",Bridgeport,CT,06139,Condo,3,4,3482,363259.68,Pending
+586,"470 Kelly Walks Apt. 712
+Randallville",New York,NY,14132,Townhouse,2,4,4489,360716.19,Rented
+587,"Unit 4285 Box 6826
+DPO AP 69924",Bridgeport,CT,06042,Condo,1,3,1176,842826.38,Available
+588,"746 Crystal Wall
+Joshuaport",Yonkers,NY,10978,Condo,1,3,3888,133618.22,Sold
+589,"98139 Heather Points
+Mannview",Rochester,NY,13769,Condo,1,4,863,1291418.91,Sold
+590,"09024 Richards Fort
+Lake Johnbury",Stamford,CT,06226,Single Family,2,2,3016,1895729.52,Rented
+591,"4570 Jesse Spring
+Darrellside",New Haven,CT,06032,Single Family,5,2,1740,754651.91,Sold
+592,"110 Gina Neck
+Port Amyberg",Hartford,CT,06370,Condo,5,3,4291,152779.45,Rented
+593,"695 Walker Forge Apt. 105
+Michaelhaven",New Haven,CT,06341,Condo,4,1,936,195565.49,Pending
+594,"USNV Ingram
+FPO AA 64589",Yonkers,NY,14357,Multi Family,2,1,4929,1945047.55,Rented
+595,"518 Rowe Drive Suite 989
+South Anne",Rochester,NY,10547,Multi Family,3,1,4403,1899326.46,Sold
+596,"626 Steele Street Apt. 815
+Warrenbury",Bridgeport,CT,06309,Condo,5,1,1970,513265.6,Rented
+597,"32968 Emily Trace Apt. 467
+North Krystal",Buffalo,NY,13217,Condo,2,4,1220,559086.27,Available
+598,"Unit 5836 Box 4684
+DPO AA 44069",Bridgeport,CT,06352,Townhouse,5,2,2271,118953.22,Pending
+599,"9960 Brown Green
+Lake Zachary",Newark,NJ,07716,Single Family,4,1,4571,1184980.57,Sold
+600,"43026 Glenn Lakes Suite 459
+Kyleview",Yonkers,NY,12997,Condo,3,3,1631,123163.96,Available
+601,"642 Carlos Circle Suite 382
+Welchhaven",Stamford,CT,06109,Condo,1,1,3596,491085.75,Rented
+602,"892 Thomas Ways
+North Joseph",Syracuse,NY,13433,Townhouse,4,1,3673,1387375.31,Rented
+603,"0842 Jason Spurs
+Youngshire",Rochester,NY,10699,Condo,3,1,4003,476976.07,Sold
+604,"0722 George Freeway
+Warrenfort",New York,NY,12090,Multi Family,1,3,4924,674223.99,Sold
+605,"7430 Casey Via Suite 063
+Anitamouth",Buffalo,NY,13143,Condo,2,4,1712,786665.51,Pending
+606,"542 Fisher Locks
+Taylorstad",Jersey City,NJ,07803,Townhouse,3,1,1433,933583.19,Rented
+607,"3730 Misty Branch
+Simonland",New York,NY,12832,Condo,3,1,3009,861041.98,Available
+608,"912 Jeffrey Grove Suite 550
+Port Toni",Yonkers,NY,13340,Condo,3,4,2288,912282.19,Pending
+609,"1186 Larson Springs Apt. 182
+Port Cynthia",Jersey City,NJ,08179,Multi Family,1,2,1945,1581385.98,Available
+610,"604 Dustin Village
+East Jennifer",Yonkers,NY,10346,Multi Family,2,3,2488,1180130.12,Available
+611,"097 Adam Mission
+Port Deborah",Syracuse,NY,10476,Townhouse,2,2,4882,302905.12,Rented
+612,"8077 Dennis Shore Suite 091
+Michaelville",Yonkers,NY,11552,Multi Family,2,2,4335,1216543.93,Rented
+613,"60170 Erickson Station Apt. 907
+Mejiatown",Elizabeth,NJ,08611,Single Family,2,1,1565,804906.06,Sold
+614,"278 Joshua Via Apt. 231
+East Jenniferfort",Yonkers,NY,12457,Single Family,1,4,1503,1353827.27,Sold
+615,"9502 Jennings Knoll
+Nataliefort",Bridgeport,CT,06188,Multi Family,2,4,2689,1125566.5,Rented
+616,"0216 Clark Flats Suite 936
+Lake Antonio",Stamford,CT,06052,Single Family,1,3,1346,576631.07,Sold
+617,"079 Mendez Path Suite 200
+Lake Bethchester",Rochester,NY,14506,Condo,3,3,2148,650674.07,Rented
+618,"59673 Jennifer Cliff Suite 041
+West Gregorytown",Hartford,CT,06356,Single Family,4,2,4622,333916.3,Sold
+619,"1523 Harper Rue Apt. 095
+East Theresaborough",Stamford,CT,06216,Condo,1,3,3766,1185384.19,Available
+620,"81795 Nancy Overpass Apt. 229
+Port Michael",Elizabeth,NJ,08558,Single Family,1,3,3912,269868.6,Pending
+621,"80733 Gonzales Hills
+East Nicoleburgh",Paterson,NJ,08343,Condo,4,3,3650,146644.27,Rented
+622,"389 Kristina Springs
+Guzmanville",Newark,NJ,07165,Townhouse,3,4,3591,1245783.11,Rented
+623,"6729 Michael Greens
+Fordville",Buffalo,NY,12268,Townhouse,5,3,2638,397698.75,Available
+624,"7951 Larry Ports
+Christinachester",Rochester,NY,11733,Condo,1,3,3422,902857.74,Rented
+625,"8794 Angela Landing
+East Brittanyland",New Haven,CT,06181,Single Family,4,1,2166,794638.95,Rented
+626,"7845 Michelle Underpass Suite 270
+New Kimberly",Syracuse,NY,11910,Condo,2,3,4046,1810100.46,Rented
+627,"791 Daniel Crossing Suite 248
+Lake Aaron",Yonkers,NY,12295,Single Family,5,2,3740,699709.98,Pending
+628,"967 Kelly Rapids Suite 950
+Corymouth",Edison,NJ,07482,Condo,1,1,3707,460527.16,Pending
+629,"USNS Ball
+FPO AE 83393",Stamford,CT,06126,Townhouse,2,2,1247,217307.15,Available
+630,"28521 Johnson Circles Suite 654
+Rogerton",New Haven,CT,06121,Townhouse,1,3,1449,1468432.07,Sold
+631,"442 Jackson Track Apt. 319
+South Scottberg",Jersey City,NJ,08054,Single Family,1,2,4950,753055.41,Sold
+632,"32198 Sarah Lane Suite 698
+Erinfort",Stamford,CT,06336,Single Family,5,1,3196,1096325.03,Sold
+633,"4487 Dominic Row
+Port Larry",Paterson,NJ,07383,Condo,3,4,1531,447694.82,Available
+634,"831 Karen Trail
+East Drewborough",Edison,NJ,08476,Multi Family,5,1,4185,1757930.4,Rented
+635,"95902 Benjamin Square Apt. 014
+South Angiebury",Newark,NJ,08112,Condo,4,3,2760,570248.3,Pending
+636,"6293 Zimmerman Estates Suite 220
+Johnfurt",Edison,NJ,08038,Single Family,3,4,2890,265383.06,Rented
+637,"7220 Acosta Parkways Suite 786
+East Michaelland",New Haven,CT,06063,Single Family,3,2,2226,906059.64,Rented
+638,"783 Brooks Throughway Suite 750
+South Tiffany",Bridgeport,CT,06192,Condo,3,1,2693,676320.07,Sold
+639,"USNS Prince
+FPO AP 11474",New York,NY,11947,Multi Family,1,2,4418,1821994.75,Available
+640,"600 Stanley Creek Apt. 413
+Andersonmouth",Jersey City,NJ,07470,Condo,4,4,1582,492331.88,Available
+641,"385 John Springs Apt. 084
+North Diane",Hartford,CT,06324,Condo,5,4,4075,1536771.84,Available
+642,"348 Adam Mission
+Bassport",Hartford,CT,06231,Multi Family,5,2,4709,1140401.46,Sold
+643,"2748 Victor Meadows Suite 007
+Zavalaburgh",Jersey City,NJ,08778,Single Family,2,2,3314,795285.5,Rented
+644,"70194 Maddox Manors
+Christopherfort",Buffalo,NY,10337,Townhouse,5,2,4380,153203.42,Sold
+645,"0004 Megan Trail
+East Joseph",Waterbury,CT,06276,Multi Family,3,2,3019,732502.95,Pending
+646,"3633 Kelsey Springs
+South Bryan",Rochester,NY,13411,Townhouse,2,3,4455,1047560.83,Available
+647,"8928 Ayers Vista
+Frankland",Newark,NJ,07108,Multi Family,2,3,1265,1750340.05,Rented
+648,"08623 Garcia Fields
+Henryburgh",Waterbury,CT,06134,Townhouse,3,4,3684,622516.31,Pending
+649,"USNS Lee
+FPO AE 58271",New York,NY,13877,Single Family,2,4,4493,1413695.29,Rented
+650,"2462 Cook Pine
+Williamstown",Jersey City,NJ,08714,Townhouse,1,4,1253,1594077.96,Pending
+651,"6179 Jenkins Brook
+West Douglas",Elizabeth,NJ,08813,Multi Family,5,1,3869,1935687.85,Rented
+652,"8584 Amy Extension
+Calvinhaven",Edison,NJ,07289,Single Family,5,3,4564,886381.45,Sold
+653,"2419 Duncan Isle
+Wilsonview",Jersey City,NJ,08667,Condo,1,4,1270,1735954.34,Available
+654,"95548 Michael Path Apt. 454
+New Michele",Rochester,NY,14882,Townhouse,5,2,4520,539743.72,Rented
+655,"7254 Murphy Ridge Apt. 389
+Brownstad",Elizabeth,NJ,07627,Multi Family,1,3,1059,1991739.93,Sold
+656,"27835 Johnson Lodge
+West Benjaminside",Waterbury,CT,06308,Townhouse,3,4,1947,1994126.16,Pending
+657,"55592 Gabriella Haven
+Meganmouth",New Haven,CT,06332,Multi Family,2,4,3341,659688.61,Sold
+658,"448 Young Fork Suite 347
+West Kimberly",Edison,NJ,08018,Single Family,2,3,4613,1033918.95,Available
+659,"6835 Yoder Alley Suite 897
+South Amanda",Syracuse,NY,14499,Single Family,1,4,3772,306278.24,Pending
+660,"908 Chad Crest
+South Sheliamouth",Jersey City,NJ,07163,Multi Family,3,4,3687,475897.06,Sold
+661,"921 Jessica Ridge
+South Danielleside",Yonkers,NY,11979,Multi Family,4,4,2132,680175.76,Sold
+662,"738 Gomez Trail Suite 959
+Gallagherland",Yonkers,NY,14102,Townhouse,1,3,2147,1305537.67,Pending
+663,"729 Jennifer Port
+Thompsonport",Waterbury,CT,06268,Multi Family,5,2,1012,1822692.13,Available
+664,"992 Robert Gateway
+Feliciafurt",Newark,NJ,07593,Single Family,2,2,1989,960888.54,Sold
+665,"1794 Mack Views Apt. 302
+Masonfort",Waterbury,CT,06285,Townhouse,5,3,2017,1400022.08,Pending
+666,"3488 Walsh Track Suite 865
+Leeville",Paterson,NJ,07727,Condo,5,3,1753,961211.45,Pending
+667,"9701 Williams Mountain Apt. 402
+East Jorgefurt",Bridgeport,CT,06207,Condo,3,4,2992,1417808.17,Sold
+668,"817 Tiffany Causeway
+Christinaberg",Yonkers,NY,10686,Townhouse,4,2,822,457546.36,Available
+669,"47463 Tony Rest
+North Christina",Waterbury,CT,06334,Multi Family,4,2,2659,883430.62,Pending
+670,"134 Thomas Circles Apt. 822
+Port Michelleville",New Haven,CT,06340,Multi Family,3,4,4997,947024.95,Sold
+671,"49516 Jessica Heights
+Petersville",Elizabeth,NJ,08505,Townhouse,5,1,2602,1567305.39,Pending
+672,"35504 Anderson Mountain
+Johnsonstad",Bridgeport,CT,06373,Condo,1,4,2803,1822140.51,Rented
+673,"4752 Amy Burg Apt. 405
+New Brandonhaven",Yonkers,NY,13344,Condo,2,1,4137,693725.78,Available
+674,"83190 Diana Wells Suite 094
+Jacobtown",Newark,NJ,08247,Multi Family,1,2,4900,1998505.79,Sold
+675,"5626 Donna Loop
+Port John",New Haven,CT,06359,Townhouse,5,1,2121,1324450.31,Available
+676,"8946 Brandi Grove
+South Brooke",New York,NY,11006,Single Family,4,1,2275,1873258.66,Pending
+677,"USNS Ford
+FPO AP 47183",Rochester,NY,12548,Multi Family,2,1,4648,1422254.96,Sold
+678,"42510 Donaldson Locks Apt. 416
+West Nicolemouth",Stamford,CT,06171,Condo,5,2,2339,935414.68,Available
+679,"5287 Martinez Summit Apt. 762
+Lake Johnfurt",Hartford,CT,06160,Townhouse,5,3,3119,1224351.56,Rented
+680,"595 Melissa Road
+Smithfort",Syracuse,NY,10215,Condo,3,4,3446,1059506.57,Sold
+681,"2528 John Isle
+Richardsonside",New Haven,CT,06139,Multi Family,5,4,3849,431098.58,Available
+682,PSC 7644,New York,NY,14041,Condo,2,4,4913,1832646.08,Sold
+683,"311 Philip Ridge Apt. 261
+Michaelborough",Waterbury,CT,06251,Multi Family,2,1,2902,131388.79,Sold
+684,"778 Howard Expressway
+West Lindaville",Rochester,NY,12282,Condo,2,4,4123,917277.07,Rented
+685,"500 Charles Estate
+Royview",Stamford,CT,06261,Multi Family,2,1,4082,1795950.86,Sold
+686,"312 Ford Key
+South Heidiberg",Newark,NJ,08393,Townhouse,5,4,2895,1646634.18,Rented
+687,"72418 Randolph Port
+New Robert",Syracuse,NY,11602,Single Family,1,3,1136,665967.51,Rented
+688,"Unit 8325 Box 4663
+DPO AP 20438",Rochester,NY,10767,Townhouse,5,4,3177,1430948.26,Sold
+689,"980 Alex Forks Suite 038
+Bradleyborough",Rochester,NY,11645,Multi Family,5,4,1258,1553060.4,Pending
+690,"571 Jones Wells Apt. 215
+Nicholeview",Stamford,CT,06302,Townhouse,2,1,4550,761278.44,Pending
+691,"165 Kelly Glen
+Lynnburgh",Stamford,CT,06302,Condo,3,3,4874,938913.34,Available
+692,"59817 Reid Ridge Suite 807
+South Kelsey",Buffalo,NY,10046,Condo,2,3,1461,1873390.82,Available
+693,"030 Lisa Drive Apt. 568
+Port Tylerberg",Edison,NJ,08278,Townhouse,1,3,1723,1365228.52,Available
+694,"3647 Stevenson Skyway
+Washingtonberg",Yonkers,NY,12301,Single Family,2,3,3209,653292.83,Pending
+695,"874 Rhodes Key
+East Johnberg",Paterson,NJ,08357,Multi Family,2,2,1068,711717.51,Available
+696,"1041 Snyder Landing Suite 993
+Kemptown",Hartford,CT,06359,Single Family,4,4,4166,940795.51,Rented
+697,"06948 Robert Stream
+New Kelly",Syracuse,NY,13695,Condo,2,1,3021,1144014.88,Pending
+698,"55878 Gardner Road Suite 051
+East Joshua",Syracuse,NY,13307,Multi Family,2,2,1210,1938410.69,Rented
+699,"99372 Brandon Street Apt. 199
+Aaronhaven",Hartford,CT,06012,Condo,4,3,937,924497.8,Rented
+700,"11552 Brett Extension
+New Peter",Rochester,NY,10570,Single Family,3,3,1398,873053.41,Sold
+701,"80258 Jonathon Mountain Suite 405
+Garciastad",Buffalo,NY,12625,Condo,2,4,4363,422078.07,Rented
+702,"989 Jessica Burgs
+Daltonberg",Stamford,CT,06023,Single Family,5,1,1881,373357.82,Available
+703,"69205 Lynch Trail Apt. 489
+West Kimberly",Waterbury,CT,06143,Townhouse,5,4,1122,1678465.45,Available
+704,"701 Reed Locks
+Justinland",Hartford,CT,06045,Condo,2,4,3510,439433.71,Rented
+705,"351 Rodriguez Village Suite 446
+North Jenniferfort",Edison,NJ,07411,Condo,2,1,2953,437385.46,Pending
+706,"6141 Ray Haven Suite 993
+Dawnstad",Paterson,NJ,08351,Multi Family,1,3,2569,1929614.19,Available
+707,"Unit 1027 Box 6254
+DPO AA 43736",New York,NY,12197,Townhouse,5,1,3649,221588.79,Sold
+708,"06708 Perez Radial Apt. 423
+Robinsonmouth",Yonkers,NY,11744,Single Family,5,1,3730,120396.22,Sold
+709,"6366 Charles Extension Apt. 211
+Alyssachester",Syracuse,NY,13602,Townhouse,1,4,2747,1894020.34,Rented
+710,"44694 Erica Course
+Port Susantown",Jersey City,NJ,07340,Condo,1,4,4206,1678189.42,Sold
+711,"169 Timothy Coves
+West William",Edison,NJ,07304,Multi Family,1,3,2166,1294312.76,Available
+712,"764 Tucker Orchard Apt. 947
+New Kelseyshire",Elizabeth,NJ,07134,Townhouse,5,3,3229,814002.73,Sold
+713,"475 Amanda Course Apt. 587
+North Brianton",Bridgeport,CT,06301,Multi Family,3,4,3135,714627.11,Rented
+714,"7228 Jacqueline Drive
+New Lucas",Rochester,NY,12377,Multi Family,5,2,3129,255864.11,Rented
+715,"67742 Ortiz Mission
+West Victoriaberg",Hartford,CT,06334,Multi Family,3,2,3714,1626003.15,Pending
+716,"995 Amanda Parkways Suite 949
+Meganville",Elizabeth,NJ,07100,Condo,3,2,1926,1610445.1,Rented
+717,"627 Jennifer Light Suite 702
+Hornstad",Bridgeport,CT,06233,Single Family,5,3,2499,1497836.8,Available
+718,"4274 Werner Green Apt. 520
+Heatherberg",Rochester,NY,14071,Condo,5,3,1095,645685.3,Available
+719,"33797 Robert Trafficway Apt. 648
+Gregoryfort",Yonkers,NY,11299,Single Family,4,4,2264,642680.62,Sold
+720,PSC 2705,Stamford,CT,06036,Multi Family,4,3,4946,624138.26,Sold
+721,"9289 Moore Fords
+Christianton",Edison,NJ,07829,Single Family,2,2,2361,1614723.19,Rented
+722,"9051 Conley Shoals Apt. 212
+North Shawn",Bridgeport,CT,06037,Multi Family,2,3,4129,1631251.35,Pending
+723,PSC 5850,Syracuse,NY,14628,Single Family,5,1,2345,191612.46,Pending
+724,"358 Keith Place
+Lake Coryside",Waterbury,CT,06245,Single Family,2,2,4695,1830539.15,Rented
+725,"2323 Brown Inlet
+Mendozamouth",Yonkers,NY,10925,Multi Family,1,3,3551,468576.02,Rented
+726,"029 Eric Path
+Morganbury",Jersey City,NJ,08976,Townhouse,2,3,2952,1661585.32,Available
+727,"703 Brown Drives Suite 680
+Rosefurt",Newark,NJ,07258,Townhouse,5,2,1576,1240992.59,Rented
+728,PSC 4857,Rochester,NY,12728,Townhouse,2,2,3464,620711.61,Pending
+729,"83318 Anderson Skyway
+Nicholestad",Bridgeport,CT,06212,Multi Family,4,4,2203,655601.76,Available
+730,"192 Daniel Glens Suite 786
+Port David",Stamford,CT,06251,Multi Family,1,3,2034,591078.19,Pending
+731,"2272 Marquez Mill
+North Alexandramouth",Rochester,NY,14223,Townhouse,3,4,3593,1183829.72,Available
+732,"7305 Ryan Trafficway Suite 466
+North Lindseybury",Syracuse,NY,13534,Townhouse,5,4,855,962563.74,Pending
+733,"4129 Monroe Point Apt. 133
+New Patriciaview",Buffalo,NY,12603,Multi Family,2,4,1624,1024720.22,Rented
+734,"7993 Evans Plaza Suite 980
+New Lauren",Buffalo,NY,14893,Condo,2,4,4497,517133.3,Available
+735,"774 Thomas Forge Apt. 319
+Marialand",Newark,NJ,07533,Multi Family,3,3,2225,419431.22,Rented
+736,"700 Diaz Street
+West Michelle",Paterson,NJ,08757,Townhouse,1,1,4233,1875293.73,Pending
+737,"48677 David Cliff
+North Wyatt",Buffalo,NY,12093,Townhouse,3,1,2680,961220.73,Rented
+738,"76973 Smith Lodge Apt. 456
+West Kennethfort",Hartford,CT,06308,Townhouse,3,3,2344,426712.26,Rented
+739,"5506 Veronica Squares Apt. 142
+West Shawnchester",Stamford,CT,06382,Multi Family,5,4,3308,125658.73,Sold
+740,"429 Amber Key
+Kylechester",Paterson,NJ,08981,Multi Family,3,3,960,498901.98,Available
+741,"0129 Alexander Stravenue
+Chrisview",Hartford,CT,06112,Multi Family,1,4,1018,1472355.55,Available
+742,"2003 Corey Lodge
+New Melissa",Newark,NJ,08176,Condo,3,3,3342,1710784.87,Pending
+743,"799 Michelle Loop
+Bruceville",Hartford,CT,06299,Single Family,5,1,3214,654763.0,Pending
+744,"13178 Price Oval Apt. 575
+New Ryanshire",New Haven,CT,06306,Condo,3,4,4906,973610.59,Sold
+745,"891 Jennifer Hill Suite 293
+Burnsport",Hartford,CT,06168,Multi Family,5,2,3486,997815.47,Pending
+746,"Unit 5086 Box 2539
+DPO AE 50282",Buffalo,NY,11988,Condo,2,4,2680,610357.65,Available
+747,"700 Hill Pike Suite 813
+Aliciaberg",Syracuse,NY,10582,Single Family,2,3,3827,498540.62,Available
+748,"17231 Booker Square Apt. 650
+West Christiantown",Syracuse,NY,11945,Single Family,1,1,2915,100433.23,Available
+749,"USCGC Schultz
+FPO AA 61168",Syracuse,NY,13255,Single Family,4,3,1883,1982493.28,Pending
+750,"41252 Payne Alley
+Joshuamouth",Elizabeth,NJ,08981,Single Family,5,1,2099,756983.04,Rented
+751,"05530 Tracy Keys Suite 338
+East Michaelfurt",Buffalo,NY,14114,Townhouse,3,2,1678,320991.23,Rented
+752,"7251 Krystal Valley Suite 609
+Lake Patrickberg",Waterbury,CT,06107,Townhouse,4,3,2370,1476392.03,Available
+753,"2566 Tonya Landing
+West Jamesfort",Yonkers,NY,10223,Condo,1,2,2588,705836.88,Available
+754,"899 Jenkins Mountains
+Delgadoshire",New Haven,CT,06310,Townhouse,1,3,4402,1184868.65,Sold
+755,"8482 Brandon Village Apt. 739
+Tiffanyburgh",Edison,NJ,08616,Multi Family,5,2,2910,733078.18,Pending
+756,"9271 Ortiz Route
+West Emilychester",Jersey City,NJ,08286,Multi Family,3,3,3092,495825.2,Available
+757,"74369 Kelly Shoals
+Danielmouth",Rochester,NY,11123,Condo,5,3,1843,1923356.21,Sold
+758,"962 Davis Center Apt. 537
+New Denise",Waterbury,CT,06262,Multi Family,2,1,1394,737529.02,Rented
+759,"71723 Daniel Walk
+Kellyton",New Haven,CT,06225,Townhouse,4,2,4167,1632303.32,Available
+760,"92040 Rosario Camp
+Meyermouth",Elizabeth,NJ,08790,Condo,5,2,3470,1622532.98,Pending
+761,"86653 Thomas Groves
+North Madisonton",Edison,NJ,08883,Single Family,5,4,2056,1934723.2,Rented
+762,PSC 0125,Buffalo,NY,12537,Multi Family,5,2,2566,113901.66,Available
+763,"8938 Adriana Valley Suite 267
+South Justintown",Stamford,CT,06256,Single Family,2,2,3261,982725.32,Pending
+764,"20612 Brandon Junction
+Davidtown",New York,NY,11133,Single Family,4,3,2006,750911.22,Pending
+765,"61634 Edward Drive
+East Williamtown",Newark,NJ,08365,Condo,4,1,4417,809492.23,Pending
+766,"402 Michael Mount Suite 736
+South Calvinport",Bridgeport,CT,06293,Townhouse,3,2,4908,1767030.11,Rented
+767,"1312 Gregory Coves
+South Gloria",Rochester,NY,11712,Multi Family,4,1,1638,340216.97,Pending
+768,"667 Ortiz Junctions Apt. 383
+Lake Sethport",Newark,NJ,07013,Multi Family,5,1,1499,1278184.38,Pending
+769,"6876 Knapp Bypass Apt. 366
+Mileston",Stamford,CT,06017,Single Family,3,4,820,897246.14,Pending
+770,"32018 Jackson Locks
+East Chase",Syracuse,NY,10702,Single Family,4,2,3263,511018.87,Rented
+771,"01776 Ortiz Knoll
+South Robert",Bridgeport,CT,06315,Multi Family,5,2,4060,962863.92,Sold
+772,"0859 Jensen Inlet Apt. 432
+Bellmouth",Hartford,CT,06158,Condo,3,1,2447,1463501.42,Sold
+773,"4280 Morris Mountain Apt. 127
+Haleyhaven",New York,NY,11672,Multi Family,4,3,3699,791965.24,Sold
+774,"044 Kevin Loop Apt. 578
+Riverashire",New York,NY,10903,Townhouse,5,2,2265,151016.23,Rented
+775,"29718 Fernando Tunnel
+Port Bridget",Buffalo,NY,12562,Single Family,3,4,3740,572455.64,Available
+776,"467 Mullins Tunnel
+New Bobbyhaven",New Haven,CT,06085,Single Family,2,2,3455,375796.67,Sold
+777,"9377 Joshua Gateway
+Joseborough",Edison,NJ,08059,Condo,2,2,3904,1236971.06,Rented
+778,"8342 Mark Extensions Suite 724
+West Cameron",Paterson,NJ,07396,Single Family,2,1,4204,298543.92,Rented
+779,"7938 Cooper Prairie Apt. 063
+Walshchester",Yonkers,NY,13631,Condo,5,3,2432,507647.29,Rented
+780,"054 Sarah Knoll
+Lambland",New York,NY,11297,Townhouse,5,2,1396,843229.95,Pending
+781,"00400 Allison Common
+East Barry",Stamford,CT,06095,Condo,2,3,2451,1287349.03,Rented
+782,"86443 Gilmore Divide
+Joshuamouth",Buffalo,NY,11980,Multi Family,4,1,3854,1924659.45,Rented
+783,"238 Katherine Summit
+West Jennifer",Bridgeport,CT,06354,Townhouse,5,2,4299,850507.57,Rented
+784,"148 Amy Mountains
+New Benjamin",Elizabeth,NJ,07171,Condo,1,2,1098,237457.49,Pending
+785,"936 Moore Throughway
+Gabrielabury",Buffalo,NY,14010,Townhouse,4,3,3787,638566.09,Rented
+786,"509 Bruce Gardens Suite 295
+South Amy",Paterson,NJ,08441,Single Family,4,3,2457,1031145.07,Pending
+787,"4883 Troy Passage
+New Mark",Stamford,CT,06269,Townhouse,2,1,1186,765750.49,Available
+788,"3879 Russo Stravenue Suite 788
+Lake Alyssachester",Waterbury,CT,06030,Multi Family,3,1,2730,319276.89,Sold
+789,"8708 Allison Knolls
+Stevensonshire",Bridgeport,CT,06360,Multi Family,2,2,2966,1964004.26,Rented
+790,"9219 Bates Trace
+Lake Natasha",Hartford,CT,06138,Townhouse,3,1,1483,931487.19,Sold
+791,"75748 Donovan Parkways Apt. 741
+Lake Jacqueline",New York,NY,10456,Single Family,2,4,1812,1098219.19,Available
+792,"423 Lewis Underpass
+Anthonyhaven",Hartford,CT,06054,Townhouse,5,3,2317,1248655.1,Sold
+793,"40641 Keith Passage Suite 759
+Maysmouth",Elizabeth,NJ,08502,Townhouse,2,1,2863,903085.77,Rented
+794,"508 Natasha Valley Apt. 892
+Franklinberg",Elizabeth,NJ,08882,Multi Family,3,4,902,591943.12,Sold
+795,"9405 Mark Knoll
+West Laura",Bridgeport,CT,06284,Condo,5,1,1936,1289468.89,Rented
+796,"8862 Emma Wall
+Williamhaven",Bridgeport,CT,06339,Multi Family,3,1,3397,979524.38,Pending
+797,"59437 Barrett Islands Suite 501
+East Victoria",Syracuse,NY,14582,Condo,4,2,1290,1402938.35,Rented
+798,"USCGC Murphy
+FPO AP 48195",Paterson,NJ,08709,Single Family,5,1,1254,204801.67,Pending
+799,"06495 Ray Row
+South Dennisville",New Haven,CT,06165,Single Family,5,2,2732,1449550.06,Pending
+800,"042 Christopher Wall
+South Michael",Yonkers,NY,13436,Single Family,5,1,2312,784471.89,Rented
+801,"713 Barnes Cape
+Williamsborough",New Haven,CT,06151,Single Family,3,3,2600,170115.56,Pending
+802,"29710 David Pike
+South Karen",Buffalo,NY,14046,Single Family,5,4,3933,1547580.69,Rented
+803,PSC 0728,Bridgeport,CT,06379,Multi Family,5,1,3636,360903.25,Available
+804,"489 Colleen Rue
+Lake Brian",Waterbury,CT,06328,Multi Family,1,4,4080,1184896.59,Rented
+805,"86820 Hughes Greens Apt. 073
+Casestad",Buffalo,NY,10060,Multi Family,1,1,2902,908694.23,Pending
+806,"4107 Powell Corner
+Feliciahaven",Edison,NJ,07698,Multi Family,2,2,3797,1798513.87,Available
+807,"26262 Middleton Squares
+Patelburgh",Stamford,CT,06093,Condo,4,2,3290,465498.47,Available
+808,"7668 Katie Mission Suite 503
+Millerton",Hartford,CT,06018,Multi Family,2,1,4363,1412179.82,Rented
+809,"34851 Austin Parkway
+Hatfieldside",Rochester,NY,10858,Condo,5,2,2577,847291.76,Available
+810,"337 Kimberly Union Suite 236
+East Matthewshire",New York,NY,13549,Single Family,5,3,2469,1655725.82,Available
+811,"4950 Jenna Way Apt. 766
+Camachofurt",Rochester,NY,12080,Townhouse,5,4,2854,368318.05,Sold
+812,"197 Skinner Estate
+Chambersshire",Buffalo,NY,12600,Townhouse,1,4,1429,374579.97,Rented
+813,"76207 Kevin Via Suite 654
+Aliciafort",New York,NY,12810,Condo,1,1,2143,257825.5,Pending
+814,"44086 Brian Mills Suite 498
+North Douglas",Waterbury,CT,06216,Condo,2,3,2516,1854177.82,Pending
+815,"1144 Steven Walks
+North Mark",Yonkers,NY,13967,Multi Family,5,2,2650,737346.73,Available
+816,"Unit 1313 Box 5017
+DPO AP 71315",Bridgeport,CT,06305,Single Family,1,4,3508,698231.57,Rented
+817,"931 Frank Greens Apt. 401
+Robertmouth",Newark,NJ,08002,Multi Family,1,4,3521,104482.87,Pending
+818,"73306 Cox Park
+Judithborough",Jersey City,NJ,07081,Condo,1,3,4409,1932306.85,Rented
+819,"62931 Jay River
+Port Andrew",Stamford,CT,06113,Multi Family,4,2,1842,202085.05,Rented
+820,"36318 Fowler Viaduct Suite 162
+North Danielhaven",Yonkers,NY,12449,Condo,5,4,1744,1881955.3,Pending
+821,"7686 Denise Radial Apt. 180
+Patriciamouth",Hartford,CT,06015,Single Family,4,1,3277,1071849.07,Sold
+822,PSC 6305,Yonkers,NY,13129,Multi Family,3,2,3166,1931235.95,Pending
+823,"USCGC Salinas
+FPO AP 29098",Elizabeth,NJ,07793,Multi Family,4,4,1484,1840810.22,Rented
+824,"892 Hannah Points
+New Jeffrey",Jersey City,NJ,08193,Single Family,2,3,2953,981294.74,Rented
+825,"21088 Curtis Squares
+Masonville",Buffalo,NY,12075,Multi Family,3,2,3099,404025.29,Sold
+826,"34706 Joseph Trafficway
+Lake Emily",Edison,NJ,08421,Condo,5,1,928,1220406.65,Rented
+827,"358 Levine Estate
+Jackieland",New York,NY,13449,Townhouse,3,2,4026,1408910.25,Rented
+828,"64940 Hanson Glen Suite 210
+Port Michael",Paterson,NJ,07105,Townhouse,2,3,3719,222387.27,Available
+829,"USCGC Johnson
+FPO AA 33292",Elizabeth,NJ,07931,Single Family,1,2,873,242033.62,Available
+830,"58996 Veronica Creek
+Sarahmouth",Syracuse,NY,13984,Condo,1,3,3374,778299.47,Sold
+831,"2323 Brittany Fields
+South Lauren",Elizabeth,NJ,08516,Single Family,1,2,1509,1726660.46,Rented
+832,"122 Christopher Squares Suite 969
+Joneston",Newark,NJ,08648,Multi Family,5,2,1529,1911436.41,Available
+833,PSC 5702,Hartford,CT,06266,Single Family,3,3,1728,1385069.08,Pending
+834,"USS Thompson
+FPO AE 91062",Elizabeth,NJ,08749,Condo,3,3,3872,699426.77,Rented
+835,"8429 Joseph Tunnel Suite 818
+Lake Kimberly",Paterson,NJ,08461,Single Family,1,2,3790,1208679.37,Pending
+836,"8488 Ryan Prairie
+Santiagobury",Syracuse,NY,13318,Condo,1,1,2718,356487.0,Rented
+837,"049 Bob Manor
+Port Destiny",Yonkers,NY,14267,Condo,2,2,4803,1371063.8,Rented
+838,"98238 Timothy Ferry
+Jacksonberg",Bridgeport,CT,06279,Single Family,1,1,2236,738429.99,Rented
+839,"81017 Samantha Shores
+West Kelliland",New Haven,CT,06053,Single Family,5,4,2343,1431981.03,Available
+840,"066 Matthew Way
+North Ashleyport",New Haven,CT,06042,Condo,4,3,1801,772736.42,Available
+841,"4626 Haley Route Apt. 555
+Jameston",Jersey City,NJ,08518,Single Family,4,3,2568,1134068.66,Available
+842,"06940 Jeffrey Mews
+Christopherburgh",New Haven,CT,06075,Multi Family,5,3,2281,904060.93,Rented
+843,"712 Victoria Crossing
+Rickyland",Waterbury,CT,06038,Condo,3,4,4029,338187.7,Sold
+844,"5131 Mcbride Mission Suite 301
+West Tiffanytown",Buffalo,NY,14476,Condo,1,1,1292,1714005.47,Sold
+845,"4640 Weiss Causeway
+East Jamesshire",Waterbury,CT,06111,Townhouse,1,3,3024,1335340.87,Available
+846,"916 Shawn Divide Suite 398
+Johnsonberg",Edison,NJ,08278,Single Family,5,4,929,1603311.21,Pending
+847,"1567 Laura Mountains
+Mcclureburgh",New York,NY,12005,Single Family,4,1,844,1874129.71,Sold
+848,"77364 Alan Ridges
+Kevinshire",Buffalo,NY,13263,Townhouse,1,4,3998,692597.22,Rented
+849,"632 Lee Tunnel
+Valerieborough",Elizabeth,NJ,07967,Multi Family,5,1,2491,1386644.94,Sold
+850,PSC 7655,Syracuse,NY,14754,Multi Family,1,4,3593,286329.06,Available
+851,"50718 Sara Locks Apt. 233
+Markshire",Buffalo,NY,13226,Multi Family,1,2,2933,1685785.16,Pending
+852,"6762 Lewis Loop
+Schultzton",Buffalo,NY,11234,Townhouse,1,4,4599,207534.67,Pending
+853,"9240 Moore Overpass
+West Trevor",Newark,NJ,07964,Condo,1,3,3438,1865088.84,Sold
+854,"USNS Smith
+FPO AA 49606",Edison,NJ,08431,Single Family,3,2,1039,138488.15,Sold
+855,"4312 Johnson Ridges
+Stephanieport",Edison,NJ,08170,Condo,5,2,3648,789164.76,Available
+856,"080 Gould Divide Suite 932
+Amberfurt",Rochester,NY,12432,Townhouse,5,4,4404,751077.41,Rented
+857,"874 Mark Isle Apt. 938
+North John",Yonkers,NY,10351,Single Family,2,1,4868,1832367.85,Rented
+858,"3196 Williams Estate Apt. 692
+South Kyle",Edison,NJ,07383,Condo,1,2,2641,1262481.05,Rented
+859,"1568 Cooper Dale Suite 635
+Riveraside",Paterson,NJ,07585,Single Family,2,1,4755,914200.6,Available
+860,"5506 Maxwell Divide Apt. 268
+South Julieport",Paterson,NJ,07434,Multi Family,4,2,3037,1728470.21,Available
+861,"410 Miller Turnpike Suite 102
+Michaelport",Jersey City,NJ,07896,Multi Family,5,3,3540,1001174.96,Rented
+862,"99719 Marc Greens Apt. 633
+Lindseychester",Syracuse,NY,10385,Condo,2,1,4224,281612.66,Sold
+863,"6726 Baker Radial Apt. 383
+Tiffanymouth",Buffalo,NY,14359,Multi Family,4,1,1428,1596697.24,Available
+864,"3213 Cynthia Shore
+East Donaldbury",Bridgeport,CT,06082,Condo,5,4,4673,679772.15,Rented
+865,"538 Stephanie Gateway Apt. 197
+Jacquelinefurt",Waterbury,CT,06201,Condo,2,1,1852,1987762.08,Pending
+866,"366 Sarah View
+Lake Justin",Yonkers,NY,10077,Single Family,1,1,3274,614422.05,Rented
+867,"13985 Elizabeth Crossroad
+Fieldsville",Buffalo,NY,11403,Single Family,5,1,3153,623831.71,Sold
+868,"9377 Deanna Locks Suite 100
+Lake Jason",Hartford,CT,06161,Townhouse,1,1,4896,1573005.39,Pending
+869,"4846 Dana Manor
+Tuckerport",Buffalo,NY,13944,Townhouse,5,3,3391,1900175.29,Rented
+870,"029 Barnes Vista
+Elizabethview",Newark,NJ,07622,Townhouse,5,4,4938,1097296.02,Sold
+871,"77349 Hill Ways
+Deanberg",New York,NY,14727,Townhouse,2,4,3287,462836.36,Available
+872,"466 Bell Burg
+Justinfurt",Newark,NJ,07090,Multi Family,3,1,3180,514257.33,Rented
+873,"854 Adam Forge
+Crystalshire",Rochester,NY,12210,Multi Family,2,1,1705,419698.1,Sold
+874,"3843 Marks Mountains Suite 461
+Lunamouth",Stamford,CT,06251,Townhouse,3,4,1785,956891.42,Available
+875,"Unit 2307 Box 5916
+DPO AE 99873",Stamford,CT,06373,Multi Family,1,1,3542,783720.47,Rented
+876,"785 Reed Gateway
+Stephensshire",New York,NY,10993,Single Family,3,2,4205,322101.31,Sold
+877,"46792 James Row Suite 064
+Samuelbury",Jersey City,NJ,08828,Single Family,2,4,4536,1019743.91,Sold
+878,"33013 Andrea Camp
+Lorichester",Yonkers,NY,14299,Multi Family,4,4,2953,1929808.86,Rented
+879,"3193 Turner Rue
+Rhodesmouth",Hartford,CT,06342,Condo,2,3,1649,1950051.6,Sold
+880,"894 Ethan Mountains
+New Kevin",Waterbury,CT,06314,Townhouse,5,3,2275,411405.74,Pending
+881,"8042 Dennis Road
+Rickeyside",Hartford,CT,06051,Condo,2,3,1039,217686.31,Available
+882,"Unit 2717 Box 3534
+DPO AE 64333",Elizabeth,NJ,08619,Townhouse,1,3,4982,609099.25,Rented
+883,"2133 Christopher Loaf
+South Jennifer",Edison,NJ,08283,Multi Family,4,2,2636,356583.78,Available
+884,"0405 Mathis Flat
+Barbaraport",New York,NY,14883,Condo,4,2,1860,1680896.81,Pending
+885,"437 Johnson Rest
+East Scottbury",Elizabeth,NJ,07722,Condo,4,3,3355,493444.67,Rented
+886,"7177 Spencer Pass Apt. 406
+Jonhaven",New York,NY,12794,Single Family,3,4,4095,751484.01,Sold
+887,"003 Mcclure Trail Apt. 495
+New Robert",Elizabeth,NJ,07284,Single Family,2,3,4708,1158255.79,Pending
+888,"610 Thompson Spurs
+Brittanyborough",Rochester,NY,11910,Single Family,1,2,3536,1595657.59,Pending
+889,"091 Jessica Turnpike Suite 703
+Spearsport",Paterson,NJ,08638,Townhouse,3,3,3675,1970832.62,Sold
+890,"7615 Jason Drive
+New Joshua",Edison,NJ,07933,Multi Family,4,1,2775,451310.91,Rented
+891,"39527 Eric Springs
+West David",Edison,NJ,08589,Multi Family,4,1,4656,765199.17,Pending
+892,"26688 Garcia Square Apt. 503
+Anitaland",Syracuse,NY,14363,Multi Family,5,3,2168,369775.65,Available
+893,"68632 Jones Highway
+North Donald",New York,NY,10860,Condo,3,4,2214,640675.52,Sold
+894,"8278 Blake Village Suite 416
+Lake Matthew",Stamford,CT,06150,Townhouse,5,2,4069,1233564.61,Available
+895,"40552 Sanchez Pine Apt. 986
+East Derrickberg",Stamford,CT,06377,Condo,1,2,3459,757272.03,Pending
+896,"43806 Meyer Avenue
+Gregoryshire",Edison,NJ,07284,Multi Family,4,1,4409,1546820.69,Rented
+897,"9491 Julie Ford Apt. 976
+Port Sharon",Syracuse,NY,14462,Townhouse,1,4,3955,1301720.13,Pending
+898,"74173 Kirk Spurs
+Leefort",Yonkers,NY,13515,Townhouse,4,1,3453,1625716.35,Pending
+899,"2056 Alyssa Locks
+Leonbury",Elizabeth,NJ,07337,Condo,1,4,2370,1481421.65,Available
+900,"493 Andrea Junction
+Lake Matthewfurt",Buffalo,NY,11073,Single Family,1,1,3381,1290831.49,Available
+901,"360 Diana Mountain Apt. 308
+Lake Coltonborough",New Haven,CT,06159,Townhouse,5,3,4850,267005.0,Rented
+902,"699 Greene Rapid
+Amberburgh",New York,NY,13946,Condo,3,1,4929,1578524.86,Pending
+903,"364 Maria Landing
+North Ashleyport",Newark,NJ,07334,Condo,5,1,2989,1806099.07,Rented
+904,"54989 Christopher Divide Apt. 593
+Michaelhaven",Syracuse,NY,11591,Single Family,4,1,4325,1290668.51,Rented
+905,"143 Angela Overpass Suite 190
+Peterborough",Newark,NJ,08560,Single Family,1,2,4598,1784388.77,Sold
+906,"34838 Blackburn Ports Suite 834
+South Amy",Buffalo,NY,12416,Condo,4,4,1717,1561438.82,Pending
+907,"78385 Boyd Radial
+Port Wayne",New York,NY,14529,Multi Family,5,1,2662,737732.96,Available
+908,"51551 Erika Cape Suite 813
+New Peterfurt",Bridgeport,CT,06356,Single Family,4,1,2295,1000905.02,Rented
+909,"509 Rivera Ferry
+Port Marissa",New Haven,CT,06301,Multi Family,1,3,4003,1878875.38,Sold
+910,"317 Kelsey Views Apt. 708
+Lake Benjaminchester",Bridgeport,CT,06387,Multi Family,4,3,2380,777804.51,Rented
+911,"6384 Harrison Shoals Apt. 986
+Edwardstown",Newark,NJ,07431,Townhouse,4,4,4656,1009974.14,Available
+912,"43637 Ball Walks Apt. 072
+Rioschester",Bridgeport,CT,06376,Townhouse,1,1,1181,1958168.02,Available
+913,"798 Stephanie Rapids Suite 118
+Lake Margaretfurt",Rochester,NY,13294,Condo,4,2,1067,1035113.86,Available
+914,"23058 John Ports Suite 847
+Timothyburgh",Elizabeth,NJ,07301,Single Family,3,1,3763,1852142.28,Pending
+915,"77513 Moore Trace
+Christopherton",New York,NY,10762,Condo,3,3,4927,234441.28,Rented
+916,"07757 Brenda Square
+Lisastad",Paterson,NJ,07911,Single Family,3,3,3743,1857513.91,Sold
+917,"710 Mckenzie Forest
+West Seanshire",Rochester,NY,11233,Multi Family,1,4,1015,1393060.91,Sold
+918,"9892 Sarah Summit Apt. 519
+Port Peter",Hartford,CT,06315,Townhouse,3,1,2825,1498498.63,Rented
+919,"8914 Bell Forest Suite 792
+South John",Hartford,CT,06078,Single Family,5,2,3403,1759456.56,Sold
+920,"13442 Rios Park Apt. 840
+Port Stacyfurt",Edison,NJ,07792,Townhouse,3,1,3811,255808.72,Pending
+921,"31073 Mckinney Isle
+Schneiderbury",Elizabeth,NJ,07185,Multi Family,1,3,4616,1600054.35,Sold
+922,"2970 Jeffrey River
+Tarastad",Elizabeth,NJ,08302,Townhouse,5,3,2625,1402137.61,Rented
+923,PSC 2065,Paterson,NJ,07358,Condo,5,1,3700,451831.06,Rented
+924,"35914 Terri Ports Suite 937
+North Julie",Waterbury,CT,06124,Multi Family,5,2,4585,1331450.51,Rented
+925,"9582 Seth Ramp Suite 601
+Johnstad",Yonkers,NY,11047,Single Family,4,3,1769,1297013.27,Pending
+926,"58584 Jane Flat Suite 966
+Port Lauraland",Hartford,CT,06182,Condo,2,3,1643,1164832.83,Pending
+927,"095 Barbara Station
+South Gordon",New Haven,CT,06347,Multi Family,1,2,1220,427321.75,Rented
+928,"739 Wesley Ranch
+Duranberg",Jersey City,NJ,07868,Townhouse,2,4,2114,1667954.94,Rented
+929,"Unit 5057 Box 5539
+DPO AA 79549",Stamford,CT,06255,Single Family,3,1,3304,691945.67,Rented
+930,"3731 Reynolds Parks
+New Michael",Buffalo,NY,10068,Multi Family,3,1,4273,1777879.32,Sold
+931,"55954 Robert Orchard
+Port Casey",New Haven,CT,06148,Single Family,3,3,1954,1297603.19,Rented
+932,PSC 0557,New York,NY,12595,Condo,4,2,1381,333201.75,Rented
+933,"7677 Mary Overpass Suite 450
+Derekside",New York,NY,14350,Townhouse,5,2,2384,691034.04,Available
+934,"7711 Debbie Ferry
+Lake Williamshire",Yonkers,NY,10444,Multi Family,4,4,3681,551418.49,Sold
+935,"4971 Nielsen Turnpike
+Brandiland",Syracuse,NY,12504,Multi Family,2,2,4677,1565937.34,Sold
+936,"372 Joseph Wells Apt. 750
+New Donald",Edison,NJ,08101,Condo,4,4,971,1964964.17,Rented
+937,"000 Amy Mountains
+North Jacqueline",Bridgeport,CT,06012,Condo,3,2,3782,1267682.53,Sold
+938,"744 Kimberly Extensions
+Myersview",Newark,NJ,08142,Condo,5,1,1928,744089.12,Pending
+939,"179 Garcia Ramp
+North Lisamouth",Buffalo,NY,10623,Condo,3,1,4270,209363.84,Rented
+940,PSC 9985,Stamford,CT,06384,Multi Family,4,2,3739,610249.9,Available
+941,"171 April Loaf Suite 850
+North Andrea",Yonkers,NY,11895,Condo,5,1,3064,581730.19,Pending
+942,"436 Santos Islands Suite 889
+Harmonhaven",New Haven,CT,06199,Single Family,3,1,1352,894558.54,Sold
+943,"1954 Meyer Estates Apt. 206
+New Shawnport",Bridgeport,CT,06075,Townhouse,2,3,4373,571677.09,Pending
+944,"USS Roberts
+FPO AE 59572",Rochester,NY,14372,Townhouse,1,4,2360,746457.23,Rented
+945,"339 Alan Expressway
+New Meganside",New York,NY,11844,Single Family,3,4,2486,855849.8,Sold
+946,"692 Michael Meadows
+Shafferbury",Newark,NJ,08394,Condo,4,2,3843,1388965.5,Available
+947,"838 Dean Square
+Jillberg",Paterson,NJ,08984,Single Family,3,4,1622,1464621.65,Sold
+948,"0846 Wanda Lodge
+New Luisville",Newark,NJ,08281,Multi Family,1,2,1472,1889356.42,Available
+949,"3504 Bradley Islands
+New Dwayne",Waterbury,CT,06050,Single Family,2,1,3045,1988361.25,Pending
+950,"81272 Benjamin Shores Apt. 046
+New Michealtown",New York,NY,11465,Townhouse,1,1,2972,771796.51,Pending
+951,"350 Stephanie Union
+East Julie",Stamford,CT,06131,Townhouse,1,3,4575,1478326.4,Sold
+952,"6254 John Green Suite 179
+Gonzalesport",Stamford,CT,06090,Townhouse,3,1,4691,1782632.65,Available
+953,"957 Lee Divide Suite 978
+South Lindsey",Edison,NJ,08188,Multi Family,2,4,1820,107324.83,Pending
+954,"3650 Victoria Vista
+Klineberg",Edison,NJ,07230,Multi Family,2,1,3676,1173891.35,Available
+955,"90038 Crane Ports
+South Christopher",Yonkers,NY,12314,Multi Family,5,4,3848,1721193.93,Available
+956,"2577 Smith Walks Suite 368
+Valdezville",Buffalo,NY,10184,Multi Family,1,1,1976,1672488.75,Sold
+957,"288 Danielle Landing
+Scottburgh",Buffalo,NY,13801,Townhouse,5,3,3044,986144.77,Sold
+958,"95055 Heather Ford Apt. 648
+New Vanessa",Paterson,NJ,07550,Townhouse,4,4,3902,1675083.59,Pending
+959,"233 Jennifer Crossing
+Morgantown",Jersey City,NJ,07664,Townhouse,4,1,2978,1084424.48,Rented
+960,"11871 Castro Club Suite 740
+Snyderland",Elizabeth,NJ,07483,Condo,3,1,1174,1241789.51,Sold
+961,"2147 Beth Street Apt. 758
+Port Brandimouth",New Haven,CT,06150,Condo,5,3,2698,252584.33,Pending
+962,"8566 Bradley Stravenue
+South Laura",Waterbury,CT,06261,Single Family,4,2,1363,1728301.13,Sold
+963,"6078 Bass Route Suite 854
+Port Biancatown",Waterbury,CT,06031,Condo,2,4,1660,1013518.97,Rented
+964,"500 David Roads
+New Sierra",Rochester,NY,10695,Multi Family,3,2,2952,1170109.63,Rented
+965,"USS Wilson
+FPO AP 30280",Paterson,NJ,07621,Townhouse,4,3,1388,1064628.26,Sold
+966,"1007 Hopkins Groves Apt. 326
+West Pamela",Syracuse,NY,13957,Multi Family,4,1,3725,1660751.06,Available
+967,"1892 Angela Mews Suite 936
+Bishopfurt",Bridgeport,CT,06339,Condo,5,1,3597,348416.2,Sold
+968,"451 Jackson Club Apt. 822
+Emilyfort",Buffalo,NY,12501,Single Family,4,4,2268,1439706.71,Pending
+969,"USS Holmes
+FPO AP 17387",Rochester,NY,12396,Condo,1,4,3569,1969661.92,Rented
+970,"754 Lee Drive Suite 530
+Parkermouth",Hartford,CT,06317,Multi Family,2,3,1020,1870599.8,Sold
+971,"05131 Jackson Forks
+Bethanyhaven",Elizabeth,NJ,07784,Townhouse,1,4,4280,1653719.06,Sold
+972,PSC 1893,Elizabeth,NJ,08816,Single Family,3,1,2072,1223123.34,Pending
+973,"867 Ashley Crossing
+Williamsbury",New Haven,CT,06276,Condo,4,1,3811,277441.34,Pending
+974,"2920 Jamie Row
+Brownport",Buffalo,NY,13455,Multi Family,5,4,3953,1693261.54,Sold
+975,"59976 Hunter Mount Suite 713
+Lake Marie",Hartford,CT,06367,Single Family,1,2,1129,1232337.1,Rented
+976,"99357 Brown Plain Apt. 450
+Pamelaburgh",Hartford,CT,06375,Single Family,4,2,1886,1837009.73,Rented
+977,"146 Adams Crest
+Peggyside",Stamford,CT,06382,Townhouse,4,2,3920,1336912.43,Sold
+978,"61239 Mary Green
+South John",Jersey City,NJ,07012,Single Family,5,3,1361,495002.75,Pending
+979,"Unit 5420 Box 0292
+DPO AP 62183",Elizabeth,NJ,08551,Townhouse,2,1,1544,1751374.79,Sold
+980,"5292 Anne Bypass
+North Sarah",Waterbury,CT,06384,Single Family,4,3,4456,1334319.54,Sold
+981,"69391 Luna Station
+South Ericport",Waterbury,CT,06279,Townhouse,3,2,2332,381784.37,Sold
+982,"674 Campbell Knolls Apt. 830
+South James",Stamford,CT,06238,Condo,4,2,2729,826515.93,Pending
+983,"50433 Salazar Stravenue Apt. 707
+Xavierstad",Hartford,CT,06367,Multi Family,1,4,4784,1133027.17,Pending
+984,"960 Lester Parkway
+South Elizabeth",Waterbury,CT,06136,Condo,4,4,4670,614780.74,Available
+985,"61684 Daniel Locks Apt. 704
+Port Kevinmouth",Hartford,CT,06250,Townhouse,3,4,1818,1002736.17,Available
+986,"140 Green Meadows Suite 104
+Colleenbury",Rochester,NY,12554,Condo,4,2,2767,1460240.64,Available
+987,"Unit 1664 Box 6864
+DPO AA 57741",Jersey City,NJ,07529,Single Family,4,4,4599,890915.48,Rented
+988,"70632 Jillian Plaza
+Daymouth",Rochester,NY,11984,Condo,3,2,1672,815042.69,Sold
+989,"286 Jamie Union Apt. 613
+Cruzshire",Buffalo,NY,14656,Single Family,4,1,2973,606331.84,Rented
+990,"USS Fields
+FPO AE 39533",Newark,NJ,08130,Townhouse,3,2,2885,371053.08,Sold
+991,"7797 David Brook
+Blakechester",New York,NY,11218,Townhouse,4,1,3073,799978.0,Rented
+992,"244 Caldwell Villages
+Maloneview",Rochester,NY,12136,Multi Family,4,2,4844,1083828.65,Rented
+993,"3114 Kathy Brooks Apt. 094
+East Jason",Waterbury,CT,06357,Single Family,5,4,2973,1031161.61,Available
+994,"4681 Samuel Via Suite 893
+Lake Billyberg",Rochester,NY,11993,Condo,1,2,1355,546703.36,Rented
+995,"3919 Angela Ridges Suite 164
+North Virginiaport",Yonkers,NY,13711,Condo,4,3,4059,355991.64,Sold
+996,"750 Jessica Row
+South Austinview",Jersey City,NJ,08494,Single Family,5,3,1561,204503.73,Pending
+997,"USS Chavez
+FPO AE 92670",Elizabeth,NJ,07385,Multi Family,1,4,1746,788103.21,Rented
+998,"1008 Christine Station
+Christinabury",Rochester,NY,14745,Multi Family,4,1,1174,1790055.15,Sold
+999,"767 Omar Creek
+South Jared",Waterbury,CT,06003,Condo,3,4,1855,380794.54,Pending
+1000,"788 Hamilton Hill Suite 460
+Davidshire",New Haven,CT,06369,Condo,5,4,3921,145257.56,Pending
